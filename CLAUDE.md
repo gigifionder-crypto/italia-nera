@@ -164,8 +164,9 @@ Repertorio: **303 voci su 8 fogli — 177 verificate, 126 residue.**
 
 | foglio | totale | verificate |
 |---|---|---|
-| 01 Archivi | 142 | 22 |
-| 01B Archivi integrativi (nuovo) | 28 | 28 |
+| 01 Archivi | 82 | 22 |
+| Registro analitico-diagnostico (nuovo) | 60 | — (non soggette a verifica d'archivio) |
+| 01B Archivi integrativi | 28 | 28 |
 | 02 Fonti seriali | 9 | 8 |
 | 03 Atti giudiziari e normativi | 73 | 73 |
 | 04 Atti parlamentari | 5 | 4 |
@@ -175,10 +176,15 @@ Repertorio: **303 voci su 8 fogli — 177 verificate, 126 residue.**
 
 *(questa tabella è un file di servizio, non un documento dell'opera: qui le tabelle sono ammesse)*
 
-**Avvertenza sul foglio 01:** delle 120 voci residue, circa **61 non sono archivi** ma
-note analitiche prodotte dal lavoro stesso, impropriamente collocate. Vanno scisse in
-un foglio autonomo «Registro analitico e diagnostico». Le voci-archivio effettivamente
-da verificare sono circa **60**.
+**Foglio 01 — scissione eseguita (6 agosto 2026).** Il vecchio foglio «01 Archivi» (142
+voci) mescolava archivi e note analitiche prodotte dal lavoro. È stato scisso, per
+contenuto e con la regola per cui atti giudiziari e norme contano come archivi (fonti
+consultabili), in due fogli: **«01 Archivi»** con le **82 voci-archivio** (22 verificate,
+**60 da verificare**) e **«Registro analitico-diagnostico»** con le **60 note** (verifiche,
+rettifiche, chiusure di discrepanza, censimenti/atlanti/ricostruzioni prodotti dal lavoro),
+non soggette a verifica d'archivio. Il nome del nuovo foglio è accorciato a 30 caratteri
+per il limite Excel di 31 (intento: «Registro analitico e diagnostico»). Nessun contenuto
+perduto; valori e colori conservati; il file pre-scissione resta nella storia git.
 
 ### Risultato principale
 
@@ -210,8 +216,9 @@ registrata accanto al contenuto.
 5. Compilazione della voce vuota sul processo Bellini (foglio 03)
 6. Riallineamento della riga difettosa nel foglio 07
 7. Correzione dei 6 errori di sostanza accertati
-8. Scissione del foglio 01 in due fogli
-9. Verifica delle ~60 voci-archivio residue
+8. ~~Scissione del foglio 01 in due fogli~~ — **fatto (6 agosto 2026)**: 82 archivi in
+   «01 Archivi», 60 note in «Registro analitico-diagnostico» (v. §7)
+9. Verifica delle **60** voci-archivio residue del foglio 01 (82 archivi − 22 già verificate)
 10. Acquisizione delle due opere mancanti: *Lettere dalla prigionia* a cura di Miguel
     Gotor (Einaudi) e l'Edizione nazionale delle opere di Aldo Moro (Università di
     Bologna, 8 volumi in 11 tomi, digitale e gratuita)
