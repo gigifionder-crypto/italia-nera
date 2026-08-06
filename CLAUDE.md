@@ -164,7 +164,7 @@ Repertorio: **303 voci su 8 fogli — 177 verificate, 126 residue.**
 
 | foglio | totale | verificate |
 |---|---|---|
-| 01 Archivi | 82 | 22 |
+| 01 Archivi | 82 | 44 |
 | Registro analitico-diagnostico (nuovo) | 60 | — (non soggette a verifica d'archivio) |
 | 01B Archivi integrativi | 28 | 28 |
 | 02 Fonti seriali | 9 | 8 |
@@ -218,7 +218,13 @@ registrata accanto al contenuto.
 7. Correzione dei 6 errori di sostanza accertati
 8. ~~Scissione del foglio 01 in due fogli~~ — **fatto (6 agosto 2026)**: 82 archivi in
    «01 Archivi», 60 note in «Registro analitico-diagnostico» (v. §7)
-9. Verifica delle **60** voci-archivio residue del foglio 01 (82 archivi − 22 già verificate)
+9. Verifica delle voci-archivio residue del foglio 01 — **in corso**. Fronte italiano
+   **completato** (6.8.2026): 22 voci verificate — 20 confermate (verde) più 2 difetti
+   (rosso): dominio errato riga 11 (`fontitaliarepubblicana.it` → CNR), duplicato riga 15
+   (= riga 14). Restano **38 archivi esteri** (a blocchi per ente: Bundesarchiv/Stasi,
+   NARA/TNA anglo-americani, ecc.). Nomi propri recuperati da reinserire (§8 punto 1):
+   Salvini, Fioroni, Anselmi, Spadolini, Urso, Bindi, Laganà, i Grande Aracri, Caruso,
+   Carboni, Martino, Verdini, Cappellacci
 10. Acquisizione delle due opere mancanti: *Lettere dalla prigionia* a cura di Miguel
     Gotor (Einaudi) e l'Edizione nazionale delle opere di Aldo Moro (Università di
     Bologna, 8 volumi in 11 tomi, digitale e gratuita)
