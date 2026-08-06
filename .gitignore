@@ -1,0 +1,21 @@
+# Artefatti temporanei — NON escludere .xlsx/.docx/.pdf: sono il progetto.
+
+# File di lock di Office/LibreOffice
+~$*.docx
+~$*.xlsx
+.~lock.*#
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Python (script della pipeline)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.idea/
+.vscode/
+*.swp
