@@ -1,0 +1,3120 @@
+Verso un censimento delle fonti documentarie sulla loggia P2  
+
+e sugli eventi connessi alle strategie della massoneria deviata 
+
+Luciano Governali 
+
+Questo lavoro di ricerca, finanziato dalla Scuola dei beni e delle attività culturali in partnership con 
+
+l’Archivio  Flamigni  di  Roma,  rappresenta  un  primo  tentativo  di  individuare  i  diversi  nuclei 
+
+documentari  che  rappresentano  le  fonti  per  la  ricerca  storica  sulle  vicende  connesse  alla  loggia 
+
+massonica  P2.  Dato  il  tema  non  stupirà  l’assoluta  predominanza  di  documentazione  giudiziaria 
+
+considerata  anche  l’assenza,  in  questo  contesto,  di  altri  soggetti  produttori  di  tracce  documentarie 
+
+interessati alla conservazione e accessibilità. Le eccezioni costituite da tracce documentarie lasciate 
+
+dai soggetti coinvolti in queste vicende, quanto note, sono indicate nella ricerca.  
+
+La  pubblicità  garantita  per  legge  agli  atti  processuali  non  coincide  con  la  piena  accessibilità  delle 
+
+documentazioni conservate da tribunali e corti d’assise. La presenza nelle corti italiane di un solo 
+
+cancelliere,  non  sempre  adeguatamente  coadiuvato,  e  l’assenza  assoluta  di  archivisti  operanti  in 
+
+pianta stabile presso le autorità giudiziarie rende da sempre molto difficoltosa l’organizzazione degli 
+
+archivi e la possibilità che questi siano effettivamente a disposizione del pubblico di studiosi, esperti 
+
+e interessati. Dalla bravura e dal senso del dovere dello scarno personale delle cancellerie di ciascun 
+
+tribunale  d’Italia  dipendono  le  condizioni  fisiche,  di  ordinamento  interno  e  in  certi  casi  la 
+
+sopravvivenza stessa di atti processuali di importanza fondamentale: di ciò sono perfetti ed opposti 
+
+esempi due casi studio citati in questo lavoro. In merito al processo milanese all’Anonima sequestri 
+
+di Luciano Leggio scrive l’ex magistrato Giuliano Turone «per la tragica disattenzione di qualcuno 
+
+degli addetti allo scarto archivistico (dovuta forse anche al fatto che il nome di Luciano Leggio, detto 
+
+Liggio, non era il primo della lista degli imputati), i faldoni contenenti gli oltre cento fascicoli degli 
+
+atti  processuali  sono  andati  distrutti,  essendo  finiti  tra  gli  atti  penali  del  Tribunale  di  Milano  del 
+
+biennio 1976-1977 oggetto del provvedimento di scarto n. 2/5757 del 3 marzo 2007», fra le carte 
+
+andate perdute le agende e le rubriche personali di Leggio risalenti al periodo in cui, secondo quella 
+
+e successive inchieste, si saldavano i legami finanziari tra le filiali settentrionali di Cosa nostra, il 
+
+Banco Ambrosiano e la loggia P2. Proprio il processo romano a quest’ultima – finito quasi in un nulla 
+
+di fatto come descritto nella relativa scheda – rappresenta invece un caso di ordinamento archivistico 
+
+eccellente da parte della cancelleria della Corte d’assise romana in anni in cui questa era impegnata 
+
+in vicende processuali immense come quelle relative ai cinque processi Moro, alla strage di Ustica e 
+
+ai tanti delitti politici avvenuti a cavallo fra gli anni Settanta e Ottanta. Non è un caso se, per quanto 
+
+riguarda Roma, la Direzione Generale Archivi ha deciso di partire dagli ultimi processi citati per il 
+
+progetto di riordinamento e digitalizzazione di processi di rilevante interesse storico. 
+
+1 
+
+ 
+ 
+Il lavoro di ricerca è strutturato come una guida per orientarsi su un complicato intreccio di vicende 
+
+e  per  questa  ragione  la  mappatura  delle  fonti  è  strutturata  per  temi.  Pur  non  rappresentando  un 
+
+censimento  archivistico  completo  si  è  scelto  di  completare  la  ricerca  con  una  riproposizione  della 
+
+documentazione  organizzata  sulla  base  del  soggetto  conservatore:  le  indicazioni  relative  ai  fondi 
+
+conservati  negli  archivi  di  Stato  e  nei  tribunali  fanno  riferimento  ai  soli  titoli  ed  estremi  dei 
+
+procedimenti, i singoli documenti – sentenze, motivazioni, ordinanze – sono elencati nelle sezioni 
+
+relative ai fondi conservati negli archivi privati. 
+
+Chi conosce e approfondisce da anni queste vicende noterà l’assenza di approfondimenti documentari 
+
+relativi  a  tre  vicende,  sicuramente  legate  ad  altre trattate  in  questo  lavoro,  ma  che  per  le  seguenti 
+
+ragioni si è deciso di non citare: la strage di piazza Fontana a Milano del 12 dicembre 1969, quella di 
+
+Peteano del 31 maggio 1972 e quella di piazza della Loggia a Brescia del 28 maggio 1974. La loggia 
+
+massonica P2 e i suoi esponenti principali non compaiono direttamente coinvolti in queste vicende 
+
+processuali nonostante siano molteplici gli intrecci e i legami anche diretti fra questi tre tragici eventi 
+
+ed altri inclusi in questa ricerca. Ad ogni modo può essere utile ricordare che gli atti dei processi per 
+
+la strage di piazza Fontana sono interamente digitalizzati e consultabili presso la sede dell’Archivio 
+
+di Stato di Milano e, al pari di quelli per la strage di Brescia, sono presenti in copia presso l’Archivio 
+
+Flamigni di Roma, mentre le sentenze di entrambi i procedimenti sono consultabili sul portale della 
+
+Rete degli archivi per non dimenticare. In merito alla strage di Peteano si ricorda che i fascicoli non 
+
+processuali prodotti da organi dello Stato sono stati oggetto della direttiva Renzi del 2014 ed è del 
+
+febbraio 2022 la notizia che l’autore reo confesso e tutt’ora in carcere, Andrea Vinciguerra, ha deciso 
+
+di donare il proprio personale complesso documentario all’Archivio Flamigni. 
+
+Per la descrizione dei personaggi, degli eventi e delle vicende qui citate si rimanda alle schede e agli 
+
+approfondimenti redatti dal Consiglio scientifico e dagli esperti che collaborano al portale della Rete 
+
+degli archivi per non dimenticare.  
+
+I collegamenti ipertestuali rimandano al suddetto portale e a quelli di diversi soggetti, istituzionali e 
+
+privati,  interessati  alla  conservazione  e  divulgazione  delle  prove  documentarie  relative  alle  molte 
+
+oscure vicende legate alla massoneria deviata, fra cui si segnalano i portali della Camera dei Deputati 
+
+– e in particolare l’Archivio Pio La Torre – e del Senato della Repubblica, del Consiglio Superiore 
+
+della  Magistratura,  del  Centro  di  documentazione  «Cultura  della  Legalità  Democratica»  della 
+
+Regione Toscana, il sito dell’Associazione tra i Familiari delle Vittime della Strage della Stazione di 
+
+Bologna del 2 Agosto 1980, il portale ArchivioAntimafia. 
+
+La documentazione conservata presso gli archivi di stato di Bologna, Milano e Roma sulla base dei 
+
+versamenti anticipati da parte dei tribunali è consultabile nelle rispettive sedi su supporto digitale. 
+
+Tutta la documentazione cartacea e digitale conservata presso l’Archivio Flamigni è consultabile in 
+
+2 
+
+ 
+sede  previo  appuntamento.  Gli  atti  della  Commissione  parlamentare  d’inchiesta  sulla  loggia 
+
+massonica P2 sono consultabili sul portale della Rete degli archivi per non dimenticare dove sono 
+
+digitalizzati tramite scansione OCR atti di diverse commissioni parlamentari e autorità giudiziarie. 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LICIO GELLI FONTI GIUDIZIARIE 
+
+PROCESSO ROMANO 1981/1983 - 1984/1996.  
+
+Procedimento  n.  59/94  -  n.  1575/81  G.i.  -  n.  7888/81  P.m.  contro  Licio  Gelli  +21  imputati  di 
+
+cospirazione politica mediante associazione ed altro, conservato presso l’Archivio di Stato di Roma, 
+
+Processi  Nar-Gelli,  Corte  d’assise  di  Roma,  fascicoli  processuali.  In  corso  di  ordinamento  e 
+
+digitalizzazione. 
+
+•  2 settembre 1981. Sentenza n. 1228 procedimento n. 17510 e 18222/81 R.g. della sezione feriale 
+
+penale della Suprema Corte di Cassazione determina il trasferimento dal Tribunale di Milano a 
+
+quello  di  Roma  dei  documenti  sequestrati  il  16  marzo  1981  nell’ambito  delle  indagini  su 
+
+Michele Sindona1.  
+
+•  Si apre il procedimento penale n. 1575/81A G.i. e n. 7888/81 P.m., poi confluito nel fascicolo 
+
+n.  59/94  R.g.,  capo  ufficio  istruzione  di  Roma  Ernesto  Cudillo,  procuratore  capo  Achille 
+
+Gallucci,  sostituto  procuratore  Domenico  Sica.  Il  reato  contestato  di  rivelazione  di  segreti 
+
+d’ufficio è estinto per amnistia e Licio Gelli è prosciolto per questo reato con sentenza istruttoria 
+
+del 17 marzo 19832. 
+
+•  La Procura generale della Repubblica di Roma fa ricorso presso la sezione istruttoria della Corte 
+
+d’appello per il reato di attentato alla Costituzione, gli atti processuali sono quindi rimandati 
+
+alla Procura il 18 dicembre 1984. 
+
+•  22 febbraio 1985. La Procura generale deposita la requisitoria finale.  
+
+•  26 marzo 1985. La Sezione istruttoria della Corte d’appello di Roma dispone la trasmissione al 
+
+Tribunale  di  Roma  degli  atti  del  processo  per  Gelli  e  altri  per  cospirazione,  attentato  alla 
+
+costituzione  e  acquisizione  di  notizie  coperte  da  segreto  di  stato,  si  apre  così  la  lunga  fase 
+
+istruttoria guidata dal Sostituto procuratore Elisabetta Cesqui.  
+
+•  1988. Licio Gelli esce dalla struttura di reclusione in cui era agli arresti a Parma a seguito di un 
+
+appello da lui rivolto al Presidente della Repubblica Cossiga e a Vassalli.  
+
+•  31  gennaio  1991.  Il  Sostituto  procuratore  Elisabetta  Cesqui  deposita  la  richiesta  di  rinvio  a 
+
+giudizio. 
+
+•  18  novembre  1991.  Il  Giudice  istruttore  Francesco  Monastero,  su  delega  del  capo  ufficio 
+
+istruzione Ernesto Cudillo, accoglie la richiesta e firma il rinvio a giudizio per Gelli e altri. 
+
+1  Il  conflitto  di  competenza  era  stato  sollevato  dalla  Procura  della  Repubblica  di  Roma  il  26  giugno  e  dall’Ufficio 
+istruzione del Tribunale di Brescia il 4 luglio 1981. Sentenza pubblicata in «Cassazione penale», 1982, pp. 256, 196-315 
+e  conservata  nel  Volume  I,  fascicolo  5  della  serie  Istruttoria  degli  atti  del  procedimento.  Il  conflitto  di  competenza 
+sollevato dalla Procura di Milano è conservato nel volume XV degli atti processuali. 
+2 Sentenza conservata in ARCHIVIO DI STATO DI ROMA (d’ora in avanti ASR), Processo n. 59/94 contro Gelli e 
+altri, Istruttoria, Volume XXXII, fascicolo 3. 
+
+4 
+
+ 
+                                                
+•  12  ottobre  1992/16  aprile  1994.  Dibattimento  del  processo  n.  10/91  R.g.,  si  segnala  la 
+
+requisitoria finale del giudice Cesqui del 28 febbraio 19943. 
+
+•  16 aprile 1994. La sentenza della seconda Corte d’assise I grado è largamente assolutoria, Gelli 
+
+è condannato solo per procacciamento notizie, calunnia nei confronti dei magistrati Turone e 
+
+Colombo e millantato credito, subisce un sequestro di beni per 16 miliardi di lire4.  
+
+•  27 marzo 1996. Corte d’appello conferma assoluzione perché il fatto non sussiste, si chiude 
+
+definitivamente il procedimento n. 59/94, il principale processo penale seguito al ritrovamento 
+
+del 1981 dei documenti e delle liste della loggia massonica segreta P2. 
+
+ATTACCO  AL  PROCURATORE  CESQUI  DA  PARTE  DI  BELLUSCIO  E  DEL  GIUDICE 
+
+ARIOTI 1985/1986. 
+
+•  26 luglio 1985 Costantino Belluscio – esponente del Psdi iscritto alla loggia P2 – presenta un 
+
+esposto contro il Sostituto procuratore di Roma Cesqui che stava istruendo il procedimento per 
+
+cospirazione  politica  contro  Gelli  e  la  loggia  P2.  L’accusa  è  essere  stato  illegittimamente 
+
+interrogato in merito a nomi e recapiti ottenuti con intercettazioni illecite del Sismi. Si accerta 
+
+però che si trattava di informazioni emerse dai documenti sequestrati al genero di Gelli Donnini. 
+
+Secondo  la  prassi,  per  gli  atti  giudiziari relativi  a  magistrati romani la  sede  competente  è  la 
+
+Procura della Repubblica di Perugia, il cui procuratore chiede e ottiene l’archiviazione.  
+
+•  29  novembre  1985.  Il  Procuratore  generale  Arioti,  dopo  avere  inizialmente  accordato 
+
+l’archiviazione, comunica il trattenimento degli atti5. 
+
+•  3 febbraio 1986. Il procuratore Arioti accusa il sostituto Procuratore Cesqui di interesse privato 
+
+in atti d’ufficio. L’11 agosto 1987 però viene chiesta e disposta l’archiviazione. 
+
+•  1992/1995. Il ministero di Giustizia dispone un’ispezione al Palazzo di giustizia di Perugia da 
+
+cui deriva la sentenza del Consiglio superiore della magistratura (d’ora in avanti CSM) del 28 
+
+aprile  1995  di  incompatibilità  ambientale  per  il  giudice  Arioti  sulla  base  della  sua  accertata 
+
+appartenenza alla massoneria.  
+
+PROCESSO FIORENTINO 1987/1991  
+
+Gelli e altri sono accusati di avere coperto e finanziato i neofascisti autori di diversi attentati sulla 
+
+linea  ferroviaria  Firenze/Bologna  antecedenti  alla  strage  dell’Italicus,  la  cosiddetta  «operazione 
+
+3 Estratti significativi in Dossier Licio Gelli 2008, testo completo in ARCHIVIO FLAMIGNI (d’ora in avanti AF), Sergio 
+Flamigni, Sezione III, serie P2 e massoneria. 
+4  Sentenza  conservata  in  copia  presso  AF,  Archivio  digitale,  Fondo  Nunziata  e  presso  la  biblioteca  del  Centro  di 
+documentazione «Cultura della legalità democratica» della Regione Toscana. 
+5 Cfr. G. Turone 2021, p. 414. 
+
+5 
+
+ 
+ 
+ 
+                                                
+terrore sui treni», in particolare il processo riguarda l’attentato fra le stazioni Vernio e Vaiano del 21 
+
+aprile 1974. 
+
+Documentazione acquisita tra gli atti del processo romano alla loggia P2 conservati presso l’Archivio 
+
+di Stato di Roma, per la sentenza di primo grado del 1987 si veda il volume XXI fascicolo 11 degli 
+
+atti  processuali,  in  corso  di  ordinamento  e  digitalizzazione.  Le  sentenze  sono  conservate  in  copia 
+
+presso la biblioteca del Centro di documentazione «Cultura della legalità democratica» della Regione 
+
+Toscana e presso AF, Archivio digitale, Fondo Nunziata. 
+
+•  9 gennaio 1987. Requisitoria del pubblico ministero del Tribunale di Firenze nel procedimento 
+
+n. 302/84 A G.i. contro Affatigato Marco +63. 
+
+•  14 marzo 1987. Sentenza-ordinanza del Giudice istruttore Pier Luigi Vigna nel procedimento 
+
+n. 302/84 A contro Affatigato Marco +63. 
+
+•  15 dicembre 1987. Sentenza n. 6/87 della Corte d’assise di Firenze, depositata il 13 maggio 
+
+1988, nel procedimento n. 3/87 R.g. contro Affatigato +25 condanna Gelli. 
+
+•  2 dicembre 1989. La sentenza n. 3N della Corte d’assise d’appello nel procedimento n. 5/89 
+
+contro  Affatigato  +16,  depositata  il  29  gennaio  1990,  dichiara  l’impossibilità  a  procedere 
+
+all’estradizione  dalla  Svizzera  –  dove  Gelli  è  detenuto  –  perché  non  sussistono  reati  di  tipo 
+
+politico.  
+
+•  9 ottobre 1991. La Corte Suprema di Cassazione ordina l’avvio di un nuovo processo che porta 
+
+all’assoluzione piena per gli imputati. 
+
+PROCESSO SVIZZERO 
+
+Documentazione acquisita tra gli atti del processo per il fallimento del Banco Ambrosiano (Archivio 
+
+di Stato di Milano) e di quelli del processo romano contro la loggia P2 (Archivio di Stato di Roma).  
+
+•  1982 aprile. Gelli è arrestato in Svizzera su segnalazione della autorità italiane6. 
+
+•  10 agosto 1983. Evasione di Gelli dal carcere di Ginevra. 
+
+•  Sentenze  della  I  Corte  di  diritto  pubblico  del  Tribunale  federale  svizzero  di  Losanna  del  19 
+
+agosto 1983, 21 maggio 1984 e 2 luglio 19867. 
+
+•  1987.  In  Svizzera  inizia  il  processo  a  Licio  Gelli  per  il  reato  di  corruzione  della  guardia 
+
+carceraria che lo aveva fatto evadere nel 1983, condannato. 
+
+6 Sugli affari finanziari di Gelli in Svizzera e non solo si rimanda a Trepp 1996, pp. 137-150. 
+7  Documentazione  conservata  in  copia  presso  la  biblioteca  del  Centro  di  documentazione  «Cultura  della  legalità 
+democratica» della Regione Toscana. Nel volume XIII degli atti del procedimento n. 59/94 R.g., versato all’Archivio di 
+Stato di Roma e oggetto di ordinamento e digitalizzazione, è presente la corrispondenza fra le autorità italiane e svizzere 
+con le rogatorie internazionali avanzate dalla Procura della Repubblica di Roma e non sempre accolte dalla magistratura 
+e elvetica. Si segnala l’interrogatorio a Gelli condotto dai giudici Cudillo e Sica a Ginevra il 27 novembre 1987 conservato 
+nel Volume XIII, fascicolo 11 degli atti del procedimento della Corte d’assise di Roma n. 59/94 R.g. 
+
+6 
+
+ 
+ 
+                                                
+INCHIESTA SUI MOVIMENTI BANCARI PERSONALI DI GELLI 
+
+•  1993/1994. Le procure di Arezzo e Roma avviano accertamenti sui movimenti bancari di Gelli 
+
+dalla primavera 1982. Dall’ispezione disposta dal Presidente di Banca d’Italia Ciampi emerge 
+
+il ruolo di garante svolto da Gelli per le cambiali della Centrale Generale Finanziaria di Giorgio 
+
+Cerruti, con il coinvolgimento del Monte dei Paschi di Siena8. Documentazione mai confluita 
+
+fra gli atti di un processo e perciò non consultabile. 
+
+PROCESSO FALLIMENTO BANCO AMBROSIANO9 
+
+•  1992. Nell’ambito del procedimento per il fallimento del Banco Ambrosiano, non accorpato a 
+
+quello romano alla loggia P2, il Tribunale di Milano condanna Licio Gelli, Umberto Ortolani, 
+
+Francesco Pazienza e Flavio Carboni.  
+
+•  2007. Per questa condanna Gelli è costretto agli arresti domiciliari. 
+
+ALTRI PROCESSI E INCHIESTE 
+
+•  1992. Licio Gelli è condannato dal Tribunale di Monza per diffamazione contro Montanelli. 
+
+•  1993/1994. Licio Gelli è condannato dal Tribunale di Treviso per dichiarazioni rilasciate sul 
+
+passato del Presidente della Repubblica Scalfaro. 
+
+•  29  dicembre  1997.  Richiesta  di  archiviazione  dei  pubblici  ministeri  della  Procura  della 
+
+Repubblica di Roma Cusano e Rossi nel procedimento n. 10807/94 per associazione segreta 
+
+contro De Magni Augusto +6010. 
+
+•  1998. Avvio dell’Indagine «Sistemi criminali» della Procura della Repubblica di Palermo sulla 
+
+base dell’informativa della Direzione investigativa antimafia (DIA) di Palermo del 1994 sulle 
+
+strategie  di  Gelli,  Delle  Chiaie,  Mandalari  e  del  vertice  di  Cosa  Nostra.  Procedimento  n. 
+
+2566/98 R.g.n.r. Dda Palermo contro Gelli +1311.  
+
+•  3 luglio 2000. Decreto di archiviazione n. 6400/94 R.g. del giudice per le indagini preliminari 
+
+Augusta  Iannini  nel  procedimento  n.  10807/94  per  associazione  segreta  contro  De  Magni 
+
+Augusto +60 
+
+•  21 marzo 2001. Processo per legami fra massoneria e Cosa nostra. Richiesta di archiviazione 
+
+del pubblico ministero nel procedimento n.2566/98 R.g.n.r. nei confronti di Gelli Licio +13.  
+
+8 Bonsanti, Limiti 2020, p. 184. 
+9 Per l’iter processuale si rimanda al paragrafo relativo al Banco Ambrosiano. 
+10 In AF, Archivio digitale, Processo De Magni e altri per associazione segreta. 
+11  Cfr.  Consulenza  di  Piera  Amendola  per  la  Procura  di  Palermo  poi  acquisita  da  Procura  di  Brescia  in  AF,  Piera 
+Amendola. 
+
+7 
+
+ 
+ 
+ 
+ 
+                                                
+PROCESSO PER L’OMICIDIO DI ROBERTO CALVI12 
+
+Documentazione conservata presso la Corte d’assise di Roma – non ordinata – e in copia presso AF, 
+
+Archivio digitale. 
+
+•  1995/2010.  Licio  Gelli  è  coinvolto,  con  Carboni,  Calò  e  Diotallevi  in  seguito  assolti,  nel 
+
+processo per la morte a Londra del banchiere. A seguito del giudizio della Corte d’assise di 
+
+Roma del 1995 e della Corte d’assise di appello tra il 2005 e il 2010 l’accusa per Gelli decade. 
+
+Per le ulteriori vicende processuali di Licio Gelli in merito alla strage alla stazione di Bologna e al 
+
+Golpe Borghese si rimanda ai relativi paragrafi. 
+
+LICIO GELLI FONTI PARLAMENTARI 
+
+Commissione  Parlamentare  d’inchiesta  sulla  Loggia  massonica  P2,  d’ora 
+
+in  avanti 
+
+Commissione P2.  
+
+•  Le seguenti relazioni sono state redatte su elementi e aspetti specifici della loggia P2 ad uso 
+
+interno  della  Commissione  P2  dai  consulenti  Giorgio  Battistacci,  Salvino  Giangreco,  Paolo 
+
+Summa, Vincenzo Maccarone e Fulvio Mastropaolo – magistrati – e da Carmine De Robbio 
+
+della Banca d'Italia. Non fanno parte degli atti pubblicati della Commissione. Rigorosamente 
+
+basati  su  fonti  documentarie  sono  un  ottimo  strumento  per  inquadrare  le  singole  vicende 
+
+all’interno del complicato scenario complessivo. Sono conservate presso l’Archivio Flamigni 
+
+nei  fondi  Sergio  Flamigni  e  Piera  Amendola,  dove  sono  presenti  ulteriori  ricostruzioni 
+
+cronologiche  utilizzate  durante  i  lavori  della  Commissione  e  costituiscono  il  fascicolo  4  del 
+
+Volume  XI  degli  atti  del  procedimento  romano  contro  Licio  Gelli  e  altri,  in  corso  di 
+
+ordinamento e digitalizzazione. 
+
+-  Vicenda Eni-Petromin 
+
+- 
+
+P2 terrorismo nero Italicus 1973-74 
+
+-  Traffici petroliferi - Op Mino Pecorelli 
+
+- 
+
+Sid parallelo 
+
+-  Golpe Borghese 
+
+-  Caso Moro 
+
+-  Vertici militari 
+
+-  Editoria, Corriere della Sera 
+
+-  Attività di eversione e progetti autoritari 
+
+-  Connessioni internazionali (armi e droga) 
+
+- 
+
+- 
+
+I mezzi impiegati. La penetrazione nei servizi 
+
+-  Nota su Francesco Pazienza 
+
+I  mezzi  impiegati.  La  penetrazione  nella 
+
+-  Mondo finanziario e P2
+
+magistratura 
+
+•  Documentazione proveniente dai servizi segreti e d’informazione sui nominativi degli elenchi 
+
+pubblicata  nel  Volume  VII  Tomo  IV;  riproduzione  dei  reperti  sequestrati  durante  le 
+
+12 Per l’iter processuale si rimanda a paragrafo relativo all’omicidio Calvi. 
+
+8 
+
+ 
+ 
+ 
+ 
+                                                
+perquisizioni pubblicate nel Volume I Tomo II e III; copie autentiche dei documenti sequestrati 
+
+pubblicate  anche  nei  Volumi  XXII-XXIII-XXIV;  verbale  del  sequestro  del  17  marzo  1981 
+
+pubblicato nel Volume I Tomo I (libro 22), p. 302. 
+
+•  Documentazione  relativa  al  sequestro  del  4  luglio  1981  all’aeroporto  di  Fiumicino  dei 
+
+documenti in possesso di Maria Grazia Gelli pubblicata nel Volume VII Tomo I (libro 87). 
+
+•  Documentazione  prodotta  dai  servizi  di  sicurezza  e  informazione,  dalle  questure  di  Arezzo, 
+
+Pistoia e Frosinone pubblicata nel Volume VII Tomi X - XI. 
+
+•  Documentazione prodotta dalla Guardia di Finanza, dai servizi di sicurezza e informazione, da 
+
+diversi uffici del ministero dell’interno e da questure diverse pubblicata nel Volume VII Tomi 
+
+XII - XIII. 
+
+•  Documentazione  dei  servizi  di  informazione  e  sicurezza  sulla  presenza  di  Gelli  all’hotel 
+
+Excelsior, diventata la sede ufficiosa della loggia P2, pubblicata nel Volume VII Tomo XII, 
+
+dove  anche  la  documentazione  relativa  alle  ricerche  condotte  all’estero  dai  servizi  di 
+
+informazione e sicurezza. 
+
+•  Documentazione  giudiziaria  di  magistrature  diverse  anteriori  al  1981  e  alle  istruttorie  su 
+
+Michele Sindona acquisita dalla Commissione e pubblicata nel Volume I Tomo I  da p. 40 – 
+
+volume  sul  sequestro  di  Castiglion  Fibocchi.  La  documentazione  giudiziaria  delle  prime 
+
+indagini posteriori al sequestro Castiglion Fibocchi è pubblicata nel Volume I Tomo IV. 
+
+Dibattito alle camere 
+
+•  18  dicembre  1985.  In  un  Parlamento  deserto  inizia  il  dibattito  sulla  relazione  finale  della 
+
+Commissione, la Relazione Anselmi. 
+
+•  9  gennaio  1986.  La  presidente  della  Commissione  P2  pronuncia  in  Parlamento  uno  storico 
+
+discorso sulla democrazia controllata e condizionata. 
+
+•  6 marzo 1986. La maggioranza propone alla Camera dei Deputati la Risoluzione parlamentare 
+
+n. 6-00075 a firma Rognoni, Anselmi, Napolitano, Formica, Rizzo e Battaglia, che riprende le 
+
+conclusioni della relazione Anselmi. La risoluzione è approvata a larghissima maggioranza. 
+
+LICIO GELLI FONTI DIVERSE 
+
+•  Fondo  Gelli  dell’archivio  di  Stato  di  Pistoia  (scheda  Sias).  Documentazione  proveniente  da 
+
+Licio Gelli, donate nel 2006 presentate non senza polemiche il 12 febbraio 2006. In merito si 
+
+vedano  l’articolo  di  Paola  Benigni,  soprintendente  archivistica  Toscana  di  allora,  e  La 
+
+donazione  dell’”Archivio  e  collezione  Licio  Gelli  all’Archivio  di  Stato  di  Pistoia,  in  «Storia 
+
+locale, Quaderni pistoiesi di cultura moderna e contemporanea», 2005, 6, pp.134-136.  
+
+9 
+
+ 
+ 
+ 
+•  Note sull’archivio Uruguayano di Licio Gelli. Acquisito nel 1981 a Montevideo dalla polizia 
+
+uruguayana, che ne consegnò una parte in copia al Sismi che, a sua volta, lo trasmise in copia 
+
+alla  Commissione  P2,  la  quale  però  non  poté  procedere  a  una  pubblicazione  completa  del 
+
+contenuto  in  quanto  alcuni  documenti  risultarono  illegittimamente  prelevati  dal  Sifar13.  La 
+
+documentazione raccolta dalla Commissione è pubblicata nel Volume VII Tomo II, nel Tomo 
+
+XI sono pubblicate le relazioni Patuto e De Luca sulle indagini svolte in Uruguay. 
+
+Per una ricostruzione di queste vicende si veda il Primo Rapporto sul sistema di informazione 
+
+e  sicurezza  del  22  marzo  1995  del  Comitato  parlamentare  per  i  servizi  di  informazione  e 
+
+sicurezza, pubblicato sulla rivista «Per Aspera ad Veritatem» n. 2 1995.  
+
+Documentazione conservata presso l’Archivio di Stato di Milano. 
+
+CONTO PROTEZIONE PSI  
+
+•  29 luglio 1994. Condanna nel procedimento n. 2056/94 R.g. del Tribunale di Milano contro 
+
+Larini, Di Donna, Claudio Martelli, Bettino Craxi14.  
+
+•  6 giugno 1997. La seconda sezione della Corte d’appello del Tribunale di Milano riduce le pene 
+
+per Craxi, Claudio Martelli e Leonardo di Donna, annulla la sentenza per Gelli e conferma per 
+
+Larini. 
+
+•  15 giugno 1999. La V sezione della Suprema Corte di Cassazione conferma solo la condanna 
+
+di Larini. 
+
+•  Documentazione della Commissione P2 sul conto Protezione pubblicata nel Volume VIII Tomo 
+
+X. 
+
+CASO ENI-PETROMIN  
+
+•  Procedimento n. 8689/79 C della Procura della Repubblica di Roma relativa al contratto Eni-
+
+Petromin per la fornitura di grezzo per il triennio 1979-1981: atti acquisiti nel Volume XXIII, 
+
+fascicolo 10 del procedimento romano contro Gelli e altri. 
+
+•  Documentazione  acquisita  dalla  Commissione  pubblicata  nel  Volume  III  Tomo  XV  e  nel 
+
+Volume VII Tomi V - VIII da p. 30515. 
+
+13 Cfr. Mola 2008. 
+14 Testo della sentenza pubblicata in Ubs-Lugano 633369 «Protezione» 1996. 
+15 Cfr. Speroni 2009. 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+STRAGE DEL TRENO ITALICUS 
+
+PRIMO PROCESSO 1980/1992 
+
+Procedimenti n. 6/80 Tuti Mario +altri, n. 1/82 Sgrò Francesco +altri e n. 4/82 Bittoni Luigi +altri, 
+
+Corte d’assise di Bologna. Documentazione conservata presso l’Archivio di Stato di Bologna, fondo 
+
+Tribunale  di  Bologna,  Corte  d’assise,  serie  Fascicoli  processuali  relativi  a  episodi  di  strage  ed 
+
+eversione,  frutto  di  versamento  anticipato  e  in  copia  presso  AF,  Archivio  digitale,  Serie  strage 
+
+Italicus. 
+
+•  31 luglio 1980. Sentenza ordinanza del Giudice istruttore Angelo Vella di rinvio a giudizio per 
+
+Marco  Tuti,  Luciano  Franci,  Malentacchi  Piero  come  autori,  Margherita  Luddi  e  Francesco 
+
+Sgrò per detenzione esplosivo e calunnia, Emanuele Bartoli, Maurizio Barbieri e Rodolfo Poli 
+
+per ricostituzione partito fascista16.  
+
+•  20  luglio  1983.  Sentenza  n.  7/83  del  procedimento  n.  6/80  della  Corte  d’assise  di  Bologna 
+
+assolve  tutti  gli  imputati  ma  ribadisce  il  legame  e  il  coinvolgimento  della  loggia  P2  con  i 
+
+neofascisti toscani17. 
+
+•  6  giugno  1984.  Ricorso  in  appello  del  Procuratore  della  Repubblica  di  Bologna,  pubblicato 
+
+dalla Commissione P2 nel Volume VII Tomo XXII, pp. 567-625.  
+
+•  18  dicembre  1986.  Sentenza  n.  51/86  della  Corte  d’assise  d’appello  di  Bologna  nel 
+
+procedimento n. 17/94 R.g. Mario Tuti +4 annulla la precedente sentenza e condanna Tuti e 
+
+Franci, dichiarando il non doversi a procedere per Luddi e Malentacchi, confermando per gli 
+
+altri imputati quanto deciso in primo grado18. 
+
+•  6 dicembre 1987. Sentenza della I Sezione della Suprema Corte di Cassazione nel procedimento 
+
+Mario Tuti +4 annulla l’ultima condanna e assolve Tuti e Franci19. 
+
+•  4 aprile 1991. La sentenza della Corte d’assise d’appello di Bologna assolve Tuti e Franci. 
+
+•  24  marzo  1992.  La  sentenza  n.  523  della  V  Sezione  della  Suprema  Corte  di  Cassazione 
+
+conferma poi le assoluzioni20. 
+
+16 Documentazione conservata in copia presso AF, Archivio digitale, Fondo Nunziata e presso la biblioteca del Centro di 
+documentazione «Cultura della legalità democratica» della Regione Toscana, nonché acquisita agli atti del processo n. 
+59/94 del Tribunale di Roma contro Gelli e altri. 
+17 Acquisita agli atti del procedimento romano contro la loggia P2 (Volume XXI, fascicolo 7) e conservata in copia presso 
+la biblioteca del Centro di documentazione «Cultura della legalità democratica» della Regione Toscana. 
+18  Conservata  anche  in  copia  presso  AF,  Archivio  digitale,  Fondo  Nunziata  e  presso  la  biblioteca  del  Centro  di 
+documentazione «Cultura della legalità democratica» della Regione Toscana. 
+19  Conservata  in  copia  presso  la  biblioteca  del  Centro  di  documentazione  «Cultura  della  legalità  democratica»  della 
+Regione Toscana. 
+20  Conservata  anche  in  copia  presso  AF,  Archivio  digitale,  Fondo  Nunziata  e  presso  la  biblioteca  del  Centro  di 
+documentazione «Cultura della legalità democratica» della Regione Toscana. 
+
+11 
+
+ 
+                                                
+La sentenza di assoluzione conferma il coinvolgimento della loggia P2. L’onorevole Tina Anselmi 
+
+nella relazione finale affermò che la loggia P2 fu responsabile in termini non giudiziari ma storico 
+
+politici, avendo istigato e coperto i neofascisti toscani. 
+
+PROCESSO ITALICUS BIS 1994/2000 
+
+Procedimenti penali n.1251/A/82 R.g.p.m., 1329/A/84 R.g.g.i., 1/96 R.g., n. 18/2001 R.g. a carico di 
+
+Bongiovanni Ivano +3, Corte d’assise di appello di Bologna21. Documentazione conservata presso 
+
+l’Archivio di Stato di Bologna, fondo Tribunale di Bologna, Corte d’assise, serie Fascicoli processuali 
+
+relativi a episodi di strage ed eversione, frutto di versamento anticipato e in copia presso AF, Archivio 
+
+digitale, Serie strage Italicus. 
+
+•  3  agosto  1994.  Sentenza-Ordinanza  n.  1329/84  A  del  giudice  Leonardo  Grassi  di  rinvio  a 
+
+giudizio22. 
+
+•  9 giugno 2000. Sentenza n. 1 della Corte d’assise di appello di Bologna. 
+
+STRAGE ALLA STAZIONE DI BOLOGNA 
+
+PRIMO PROCESSO 1987/1992 
+
+Procedimento penale n. 12/86 R.g.c.a. che riunisce i procedimenti penali n. 13/86R R.g.c.a. e n. 2/87 
+
+R.g.c.a.  Documentazione  conservata  presso  l’Archivio  di  Stato  di  Bologna,  fondo  Tribunale  di 
+
+Bologna, Corte d’assise, serie Fascicoli processuali relativi a episodi di strage ed eversione, frutto di 
+
+versamento anticipato e in copia presso AF, Archivio digitale, Serie Processo per la strage di Bologna 
+
+n. 344-1980. Le sentenze sono consultabili sul portale dell’Associazione tra i familiari delle vittime 
+
+della strage della Stazione di Bologna del 2 agosto 1980, sul sito della Rete degli archivi per non 
+
+dimenticare, sul portale del CSM e in copia presso l’Archivio Flamigni.  
+
+•  21  settembre  1980.  La  Procura  della  Repubblica  di  Bologna  invia  il  fascicolo  all’ufficio 
+
+istruzione,  il  procedimento  prende  il  numero  344/A  G.i.  fino  alla  sentenza-ordinanza  del 
+
+Giudice istruttore Castaldo del 14 giugno 1986 di rinvio a giudizio per Pedretti Dario e altri, 
+
+imputati di strage e altro23. 
+
+•  19  gennaio  1987/11  luglio  1988.  La  sentenza  n. 4/88  dell’11  luglio,  procedimento  penale  n. 
+
+12/86  R.g.c.a.  della  II  Corte  d’assise  di  Bologna  condanna  all’ergastolo  per  Mambro, 
+
+21 Entrambe le sentenze sono conservate anche in copia presso AF, Archivio digitale, Fondo Nunziata. 
+22 Conservata anche in copia presso AF, Archivio digitale, Fondo Nunziata. 
+23 Requisitoria di maggio del p.m. Libero Mancuso, brani sul ruolo di Gelli nella strategia della tensione neofascista in 
+Dossier Licio Gelli 2008, da p. 81. 
+
+12 
+
+ 
+ 
+ 
+ 
+                                                
+Fioravanti, Fachini, Picciafuoco e assoluzione per Gelli, Pazienza, Musumeci e Belmonte per 
+
+il reato di calunnia – reato oggi configurabile come depistaggio.  
+
+•  Ottobre  1989/18  luglio  1990.  La  sentenza  n.18/90  del  18  luglio  nel  procedimento  penale  n. 
+
+32/89  R.g.  presso  la  Corte  d’assise  d’appello  assolve  tutti  per  strage  e  condanna  Fioravanti, 
+
+Mambro, Cavallini, Giuliani per banda armata, Musumeci e Belmonte per calunnia24.  
+
+•  25 maggio 1991. Impugnazione dell’avvocatura dello Stato con le seguenti motivazioni. 
+
+•  27 maggio 1991. Ricorso in Cassazione con le seguenti motivazioni presentate dal Procuratore 
+
+Generale. 
+
+•  12  febbraio  1992.  La  sentenza  n.  1/92  della  Suprema  Corte  di  Cassazione,  procedimento  n. 
+
+16674/91 e n. 27503/91, ribalta quanto deciso in appello sia per il reato di strage che per quelli 
+
+di banda armata e calunnia, definendo illogica la sentenza precedente. 
+
+•  Ottobre  1993.  Inizia  presso  la  Corte  d’assise  di  Bologna  il  secondo  processo  d’appello 
+
+procedimento penale n. 12/86 (Ballan Marco +altri) e 2/87C R.g. (Musumeci +3) contro Ballan, 
+
+Belmonte,  Cavallini,  Fachini,  Fioravanti,  Gelli,  Giuliani,  Mambro,  Musumeci,  Pazienza, 
+
+Picciafuoco, Rinani. 
+
+•  16  maggio  1994.  La  sentenza  n.  13/94  della  I  Corte  d’assise  di  appello  di  Bologna, 
+
+procedimento  n.16/92  R.g.,  ricondanna  tutti  (Massimiliano  Fachini  +10)  e  conferma  le 
+
+condanne per depistaggio – reato precedentemente configurato come calunnia25. 
+
+•  23 novembre 1995. La sentenza n. 21/95 della Suprema Corte di Cassazione a sezioni unite, 
+
+procedimento n. 19840/95 R.g., conferma definitivamente le condanne sia per la strage che per 
+
+il depistaggio26. 
+
+•  Si  segnala  la  documentazione  relativa  alle  rivelazioni  di  Ciolini  e  Federici  pubblicata  dalla 
+
+Commissione P2 nel Volume VII Tomi XIX - XX. 
+
+•  10 ottobre 2014. La sentenza della III Sezione civile del Tribunale di Bologna nel procedimento 
+
+n. 5116/2013 R.g. condanna al risarcimento danni Francesca Mambro e Valerio Fioravanti. 
+
+24  Conservata  in  copia  presso  la  biblioteca  del  Centro  di  documentazione  «Cultura  della  legalità  democratica»  della 
+Regione Toscana. 
+25 Sentenza conservata in copia presso AF, Archivio digitale, Strage di Bologna. 
+26  Documentazione  conservata  in  copia  presso  la  biblioteca  del  Centro  di  documentazione  «Cultura  della  legalità 
+democratica» della Regione Toscana e presso AF, Archivio digitale, Strage di Bologna. 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+                                                
+PRIMO PROCESSO DEPISTAGGIO 1985/198727 
+
+Procedimento n. 17/85 presso la V Sezione della Corte d’assise di Roma. Documentazione conservata 
+
+presso l’archivio della Corte d’assise di Roma. 
+
+•  29 luglio 1985. La sentenza n. 45/85 della V Sezione Corte d’assise di Roma, depositata il 4 
+
+settembre, condanna Gelli, Musumeci, Belmonte e Pazienza28. 
+
+•  14 marzo 1986. La sentenza n. 19/86 della Corte d’assise d’appello di Roma assolve dal reato 
+
+di associazione a delinquere e conferma condanna solo per Musumeci e Belmonte. 
+
+•  10 marzo 1987. La sentenza n. 5752 della Suprema Corte di Cassazione, depositata l’8 maggio, 
+
+conferma le condanne d’appello. 
+
+SECONDO PROCESSO DEPISTAGGIO 2001/2003 
+
+Procedimento n. 18/2001 R.g., n. 1251/a/82 R.g.p.m. Documentazione conservata presso il tribunale 
+
+di Bologna. Le sentenze sono consultabili sul portale dell’Associazione tra i familiari delle vittime 
+
+della strage della Stazione di Bologna del 2 agosto 1980. 
+
+•  9  Giugno  2000.  La  sentenza  n.  1/2000  della  Corte  d’assise  di  Bologna  condanna  Massimo 
+
+Carminati, Federico Mannucci Benincasa e Ivano Bongiovanni.  
+
+•  21 dicembre 2001. La sentenza n. 34/2001 della II Corte d’assise d’appello, depositata il 20 
+
+marzo 2002, assolve Mannucci Benincasa e Carminati. 
+
+•  30 gennaio 2003. La sentenza n.102/2003 della Suprema Corte di Cassazione, procedimento n. 
+
+25167/02, conferma l’assoluzione. 
+
+PROCESSO A LUIGI CIAVARDINI PRESSO IL TRIBUNALE DEI MINORI 2000/2007 
+
+Procedimento  penale  n.  335/89  R.n.r.  e  n.  64/92  R.g.  Tribunale  per  i  minorenni  di  Bologna.  Le 
+
+sentenze sono consultabili sul portale dell’Associazione tra i familiari delle vittime della strage della 
+
+Stazione  di  Bologna  del  2  agosto  1980,  sul  portale  della  Rete  degli  archivi  per  non  dimenticare  e 
+
+presso AF, Archivio digitale, Fondo Nunziata. 
+
+•  30 gennaio 2000. La Sentenza n. 3/2000 del Tribunale per i minori di assolve Luigi Ciavardini 
+
+dal delitto di strage. 
+
+27 Primo filone del processo dedicato al depistaggio – cosiddetta operazione terrore sui treni – e alla calunnia aggravata 
+per Gelli, Musumeci, Pazienza, Belmonte e Santovito – nel frattempo deceduto. Nell’ambito di questo processo scatta 
+anche l’accusa per Licio Gelli per subordinazione di teste, Nara Lazzerini, procedimento che passa al tribunale di Pisa. 
+Per le sentenze della Corte d’assise di Roma si rimanda a ASR, Processo n. 59/94 contro Gelli e altri, Istruttoria, Volume 
+XXI, fascicoli 12/a e 12/b. 
+28  Documentazione  conservata  in  copia  presso  la  biblioteca  del  Centro  di  documentazione  «Cultura  della  legalità 
+democratica» della Regione Toscana. 
+
+14 
+
+ 
+ 
+ 
+                                                
+•  9  marzo  2002.  La  Sentenza  n.  5/02  della  Corte  d’appello  di  Bologna  per  i  minorenni  lo 
+
+condanna a 30 anni di carcere come esecutore materiale della strage. 
+
+•  17  dicembre  2003.  La  Sentenza  n.  1690/03  della  Suprema  Corte  di  Cassazione  annulla 
+
+parzialmente la condanna e ordina un nuovo processo d’appello. 
+
+•  13  dicembre  2004.  La  Sentenza  n.  52/04  della  Corte  d’appello  per  i  minorenni  di  Bologna, 
+
+depositata il 12 marzo 2005, rigetta il parziale annullamento e conferma la condanna d’appello. 
+
+•  11  aprile  2007.  Sentenza  n.  18244/07  della  Suprema  Corte  di  Cassazione,  depositata  l’11 
+
+maggio, conferma la condanna a 30 anni. 
+
+INDAGINI SULLA «PISTA PALESTINESE» 
+
+•  9 febbraio 2015. Ordinanza di archiviazione n. 8757/12 R.g.g.i.p. disposta dal Giudice per le 
+
+indagini  preliminari  Giangiacomo  Bruno  nell’ambito  del  procedimento  penale  contro  Kram 
+
+Thomas e Frohlich Christa Margot. 
+
+PROCESSO A GILBERTO CAVALLINI 2017/2020 
+
+Procedimento n. 19072/14 R.g.n.r. e n. 1/18 R.g. presso la Corte d’assise di Bologna.  
+
+Documentazione  conservata  presso  la  Corte  d’assise  di  Bologna;  sentenza  consultabile  sul  portale 
+
+dell’Associazione tra i familiari delle vittime della strage della Stazione di Bologna del 2 agosto 1980. 
+
+•  9 gennaio 2020. La sentenza n. 1/2020 condanna Gilberto Cavallini all’ergastolo per il supporto 
+
+fornito a Francesca Mambro, Valerio Fioravanti e Luigi Ciavardini. 
+
+PROCESSO AI MANDANTI – IN CORSO – 
+
+• 
+
+Inchiesta Procura di Bologna per depistaggio 2020 conferma che Licio Gelli fu mandante della 
+
+strage insieme a Umberto Ortolani, Mario Tedeschi e Federico Umberto D’amato, come emerso 
+
+nell’ambito del processo 2017-2020 che condannò per strage anche Gilberto Cavallini. 
+
+OMICIDIO CARMINE PECORELLI 
+
+PROCESSO PER L’OMICIDIO 1991/2003 
+
+Procedimento n. 2826/89 A del Tribunale di Roma e n. 4/95 R.g., 5/95 R.g., 3/2001 R.g. del Tribunale 
+
+di Perugia. 
+
+Documentazione  conservata  presso  l’Archivio  di  Stato  di  Perugia  e  in  copia  presso  AF,  Archivio 
+
+digitale, Serie Omicidio di Carmine Pecorelli. 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+•  15 novembre 1991. Sentenza istruttoria del giudice Francesco Monastero dispone l’assoluzione 
+
+per Massimo Carminati, Licio Gelli, Fioravanti Cristiano e Valerio, Antonio Viezzer. 
+
+•  1993. A seguito delle dichiarazioni di Buscetta si apre un nuovo processo a Roma con Pubblico 
+
+ministero Giovanni Salvi. L’8 giugno 1993 i procuratori Giovanni Salvi e Vittorio Mele della 
+
+Corte  d’appello  di  Roma  avanzano  la  richiesta  di  autorizzazione  a  procedere  contro  Giulio 
+
+Andreotti al Presidente del Senato della Repubblica come mandante dell’omicidio in concorso 
+
+con  ignoti  e  con  Gaetano  Badalamenti,  Stefano  Bontate,  Giuseppe  Calò,  Ignazio  e  Antonio 
+
+Salvo. 
+
+•  A seguito dell’emersione29 del possibile interesse del giudice Vitalone di Roma nella morte di 
+
+Pecorelli, il procedimento passa al Tribunale di Perugia con i numeri 4/95 R.g. e 5/95 R.g. 
+
+• 
+
+Il  fascicolo  delle  indagini  del  Pubblico  Ministero  Orazio  Savia30  sui  cosiddetti  «assegni  del 
+
+presidente» e il ruolo del gruppo Sir di Nino Rovelli viene acquisito nel processo perugino. 
+
+•  24 settembre 1999. Prima sentenza n. 3/1999 della Corte d’assise di Perugia assolve tutti gli 
+
+imputati31. 
+
+•  17 novembre 2002. La sentenza n. 4/2002 nell’ambito del procedimento n. 3/2001 R.g. della 
+
+Corte d’assise d’appello, depositata il 13 febbraio 2003, condanna Andreotti e Badalamenti e 
+
+assolve gli altri imputati32. 
+
+•  30 ottobre 2003. La sentenza n. 20/2003 della Suprema Corte di Cassazione, depositata il 24 
+
+novembre 200333, annulla ma senza rinvio a giudizio la sentenza assolutoria d’appello: la verità 
+
+processuale definitiva è la sentenza di I grado che assolve tutti nel 1999. 
+
+La documentazione raccolta dalla Commissione P2 su Pecorelli, inclusa la riproduzione delle carte 
+
+sequestrata  nello  studio  e  nell’abitazione  del  giornalista  e  delle  carte  relative  alle  indagini,  è 
+
+pubblicata nel Volume VII Tomi XIV - XVIII sulle indagini. 
+
+29  Dichiarazioni  dei  pentiti  della  Banda  della  Magliana  (Fabiola  Moretti,  Maurizio  Abbatino,  Antonio  Mancini  e  in 
+particolare Carnovale) contenute nella requisitoria del 20 luglio 1995 pubblicate anche in Mangiavacca 1996, dove sono 
+pubblicate le anche dichiarazioni di Buscetta a Salvi. 
+30 Arrestato per corruzione e false comunicazioni a fine maggio 1997, patteggia e paga. 
+31  Conservata  in  copia  presso  la  biblioteca  del  Centro  di  documentazione  «Cultura  della  legalità  democratica»  della 
+Regione Toscana. 
+32  Documentazione  conservata  in  copia  presso  la  biblioteca  del  Centro  di  documentazione  «Cultura  della  legalità 
+democratica» della Regione Toscana. 
+33 Cfr. G. Turone 2021, p. 116. 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+SCALATA AL GRUPPO RIZZOLI E AL CORRIERE DELLA SERA 
+
+•  Documentazione sulla vicenda Rizzoli, sui ritrovamenti a Castiglion Fibocchi di carte afferenti 
+
+al gruppo e i relativi processi pubblicata dalla Commissione P2 nel Volume VIII Tomo II. 
+
+•  Archivio storico del Corriere della Sera presso il Centro per la cultura d’impresa di Milano. 
+
+PROCESSO PER BANCAROTTA 
+
+•  Tribunale civile di Milano, sentenze del processo per la bancarotta del gruppo editoriale: primo 
+
+grado 15 giugno 1993, secondo grado novembre 1997, Suprema Corte di Cassazione 1998 e 
+
+2009.  
+
+Documentazione conservata presso l’Archivio di Stato di Milano. 
+
+MICHELE SINDONA PROCESSI  
+
+•  14 ottobre 1974. Sentenza n. 70 del Tribunale civile di Milano dichiara lo stato d’insolvenza 
+
+della Banca privata italiana a seguito della richiesta del Commissario liquidatore del 1° ottobre. 
+
+•  7 giugno 1977. Ordinanza n. 912 della V sezione penale della Suprema Corte di Cassazione 
+
+contro Sindona. 
+
+•  21 luglio 1978. Sentenza n. 3615 della I sezione civile della Suprema Corte di Cassazione sulla 
+
+Banca privata italiana. 
+
+•  1980. Sindona è condannato negli Usa per 65 accuse, fra cui per il fallimento della Franklin 
+
+National Bank. 
+
+•  1984 Sindona estradato in Italia. 
+
+PROCESSO MILANESE 1984/1988 - 1988/1990 
+
+Unione  dei  procedimenti  n.  982/81-F  –  vicenda  Zitropo  –  e  n.  595/80-F  –  omicidio  di  Giorgio 
+
+Ambrosoli – del tribunale civile e penale di Milano, nuovi procedimenti n. 51/84 R.g. e n. 21/85 R.g. 
+
+Documentazione interamente digitalizzata conservata presso l’Archivio di Stato di Milano e in copia 
+
+presso AF, Archivio digitale, serie Omicidio di Giorgio Ambrosoli. 
+
+Procedimenti n. 79/86 R.g., 75/88 R.g. e 51/84 R.g. Omicidio Ambrosoli34 e fallimento Banca Privata 
+
+Italiana. 
+
+34  Per  un  approfondimento  sull’omicidio  si  rimanda  a  un  contributo  di  Sandro  Provvisionato  dal  suo  portale  Misteri 
+d’Italia. 
+
+17 
+
+ 
+ 
+ 
+ 
+                                                
+•  17  luglio  1984.    Sentenza-Ordinanza  del  giudice  istruttore  di  Milano  nel  procedimento  n. 
+
+531/80F contro Sindona+2535. 
+
+•  18 marzo 1986. Sentenza n. 20/86 della prima Corte d’assise di Milano nel procedimento n. 
+
+51/84 e n. 21/85 R.g. condanna all’ergastolo per l’omicidio Ambrosoli36.  
+
+•  22 marzo 1986. Sindona muore in carcere a Voghera. 
+
+•  5 marzo 1987. Sentenza n. 8/87 della II Sezione della Corte di assise d’appello di Milano contro 
+
+Guzzi +altri.  
+
+•  25  febbraio  1988.  La  sentenza  n.  4511,  depositata  il  12  aprile,  della  I  sezione  penale  della 
+
+Suprema Corte di Cassazione contro Guzzi +22 rigetta i ricorsi degli imputati e li condanna al 
+
+rimborso alla vedova Calvi e delle spese processuali37. 
+
+•  25 marzo 1988. Sentenza n. 8/87 della II sezione della Corte d’appello di Milano contro Bordoni 
+
+Carlo +altri e Guzzi +altri. 
+
+•  26 giugno 1990. La Suprema Corte di Cassazione giudica inammissibile il ricorso, la sentenza 
+
+contro Bordoni diventa definitiva. 
+
+MICHELE SINDONA FONTI PARLAMENTARI 
+
+•  Commissione parlamentare d’inchiesta sul caso Sindona (21/9/79 - 22/5/1980), indici e note 
+
+generali dei documenti della Commissione a cura di Francesco Biscione. Documenti acquisiti 
+
+e digitalizzati in Archivio storico Camera. 
+
+•  Atti  della  Commissione  Parlamentare  d’inchiesta  sul  caso  Sindona  e  sulle  responsabilità 
+
+politiche  ed  amministrative  ad  esso  eventualmente  connesse  1979  -  1982  interamente 
+
+digitalizzati. 
+
+•  Documentazione  dei  servizi  d’informazione  e  sicurezza  su  Sindona,  Carboni  e  Memmo 
+
+pubblicata dalla Commissione P2 nel Volume VII Tomo X. 
+
+ALTRE FONTI 
+
+•  Archivio della Banca Privata Italiana ordinato dal Centro per la cultura d’impresa e conservato 
+
+ora presso la Camera di commercio di Milano. 
+
+35  Pubblicata in De Luca 1986. Sentenza fra le carte acquisite nel 1987 dal Consiglio superiore della magistratura (CSM) 
+e nel 1993 dalla DIA in merito alla vicenda Alibrandi e Infelisi. Conservata in copia presso la biblioteca del Centro di 
+documentazione «Cultura della legalità democratica» della Regione Toscana. 
+36  Imputati  Michele  Sindona,  Venetucci  Robert,  Spatola  Vincenzo,  Aricò  William,  Rocco  Messina,  Magnoni  Pietro, 
+Scuccimarri Giuseppe. Sentenza conservata in copia anche presso AF, Archivio digitale e presso la biblioteca del Centro 
+di documentazione «Cultura della legalità democratica» della Regione Toscana. 
+37 Un estratto è consultabile sul portale del CSM. 
+
+18 
+
+ 
+ 
+ 
+ 
+                                                
+VICENDA BAFFI-SARCINELLI 
+
+Documentazione  acquisita  nell’ambito  del  processo  per  la  bancarotta  del  Banco  Ambrosiano  e 
+
+conservata  in  copia  presso  AF,  Archivio  digitale,  Serie  processo  contro  Infelisi  e  Alibrandi  nella 
+
+vicenda Baffi-Sarcinelli. 
+
+•  24  marzo  1979.  Il  giudice  istruttore  del  Tribunale  di  Roma  Alibrandi  ordina  l’arresto  di 
+
+Sarcinelli, concedendo la libertà provvisoria ma disponendo nel contempo l’allontanamento di 
+
+Sarcinelli dal settore vigilanza sulle aziende di credito della Banca d’Italia. 
+
+•  17  aprile  1979.  Ordinanza  del  giudice  istruttore  reintegra  Sarcinelli  a  partire  dal  4  maggio 
+
+escludendolo definitivamente dal settore vigilanza.  
+
+•  10 novembre 1979. La Corte d’appello di Roma dichiara la totale mancanza di indizi e scarcera 
+
+Sarcinelli. 
+
+•  Gennaio  1981.  La  Procura  della  Repubblica  di  Roma  revoca  definitivamente  l’ordinanza  di 
+
+applicazione provvisoria di pene accessorie. 
+
+•  11  giugno  1981.  Il  giudice  Alibrandi  proscioglie  definitivamente  Baffi  e  Sarcinelli 
+
+dall’imputazione per il caso Sir. 
+
+VICENDA BANCO AMBROSIANO 
+
+PROCESSO PER INSOLVENZA E BANCAROTTA 1978/1998 
+
+Documentazione interamente digitalizzata conservata presso l’Archivio di Stato di Milano, in copia 
+
+presso AF, Archivio digitale, nonché acquisita agli atti del procedimento romano contro la P2.  
+
+A seguito della prima ispezione della Banca d’Italia del 14 dicembre 1978 si aprono i procedimenti 
+
+penali n. 7035/78C R.g.p.m Milano e n. 4877/80 A contro Calvi Roberto, Canesi Alessandro e Lauro 
+
+Giuseppe.  
+
+•  1981. Presso il Tribunale penale di Brescia si apre il procedimento n. 244/81 G.i poi n. 1361/81 
+
+R.g.p.m. in seguito trasferito a Milano. 
+
+•  20 maggio 1981. Arresto di Calvi, condannato, ottiene la libertà provvisoria. 
+
+•  17 giugno 1982. Il Tribunale civile di Milano decreta il fallimento e pone il Banco Ambrosiano 
+
+in  amministrazione  straordinaria  a  seguito  della  richiesta  di  commissariamento  avanzata  dal 
+
+consiglio d’amministrazione. 
+
+19 
+
+ 
+ 
+ 
+•  25  agosto  1982.  Il  Tribunale  civile  di  Milano  accerta  lo  stato  di  insolvenza  del  Banco 
+
+Ambrosiano, il procedimento presso il Tribunale penale di Milano prende poi i numeri 1267/82 
+
+F G.i., 2463/89, 940/91, 1260/91 R.g.38.  
+
+•  21 gennaio 1991. Relazione dei Commissari liquidatori Lanfranco Gerini e Franco Spreafico. 
+
+•  18 novembre 1991. La sentenza di proscioglimento del giudice Francesco Monastero relativa 
+
+allo stralcio del processo sul fallimento dell’Ambrosiano dichiara il non doversi procedere per 
+
+Gelli e altri per intervenuta amnistia e per mancata estradizione39.  
+
+•  16 aprile 1992. Sentenza n. 1390/92 della Corte di assise di Milano nel procedimento n. 2565/94 
+
+contro Bagnasco +altri.  
+
+•  10 giugno 1996. Sentenza n. 2325, depositata il 23 dicembre, della II sezione penale della Corte 
+
+di appello di Milano nel procedimento n. 2565/94 Bagnasco +altri.  
+
+•  22  aprile  1998.  Sentenza  n.  8327,  depositata  14  luglio  1998,  della  V  sezione  penale  della 
+
+Suprema Corte di Cassazione contro Bagnasco +altri.  
+
+In questo processo sono state acquisite le carte dell’inchiesta su Baffi e Sarcinelli dei giudici Alibrandi 
+
+e Infelisi.  
+
+RUOLO DEI GIUDICI ALIBRANDI E INFELISI 
+
+•  28 novembre 1983. La vedova Carli, nell’ambito del processo per omicidio del marito, parla 
+
+della corruzione del banchiere milanese nei confronti del giudice Infelisi che indagava su Carli 
+
+in merito al fallimento del gruppo immobiliare Genghini. 
+
+•  17  luglio  1984.  A  partire  dal  procedimento  contro  Sindona,  i  magistrati  di  Milano Turone  e 
+
+Colombo inviano le carte su Alibrandi e Infelisi al Tribunale di Perugia impegnato nel giudizio 
+
+sui  magistrati romani40.  Si  apre  il  procedimento  n. 161/85  C  R.g.p.m.  presso  il  Tribunale  di 
+
+Perugia contro Alibrandi e Infelisi.  
+
+•  24 maggio 1985. Il giudice istruttore Materia decide di non procedere ad azione penale contro 
+
+Alibrandi  e  dispone  l’archiviazione  su  impulso  anche  del  pubblico  ministero  Federico 
+
+Centrone. 
+
+•  13 novembre 1985. Il procuratore generale di Perugia Arioti chiede l’archiviazione per Infelisi. 
+
+38 Imputati: Umberto Ortolani, Licio Gelli, Carlo De Benedetti, Flavio Carboni, Francesco Pazienza, Giuseppe Ciarrapico, 
+Luigi Mennini, Fausto Annibaldi, Orazio Bagnasco, Anna Bonomi Bolchini, Giacomo Botta, Gennaro Casella, Marco 
+Ceruti,  Antonio  Confalonieri,  Carlo  Costa,  Filippo  Leoni,  Maurizio  Mazzotta,  Gianpaolo  Melzi  d’Eril,  Alessandro 
+Mannini, Francesco Monti, Carlo Olgiati, Enrico Palazzi Trivelli, Emilio Pellicani, Giuseppe Prisco, Roberto Rossone, 
+Bruno Tassan Din, Maurizio Valeri Manera, Carlo von Castelberg, Giuseppe Zanon di Valgiurata. 
+39 Documentazione acquisita agli atti del procedimento n. 59/94 del Tribunale di Roma contro Gelli e altri. 
+40 Il procedimento contro Alibrandi, presidente di Sezione del Tribunale di Roma nel procedimento contro Sindona, era 
+infatti stato trasmesso a Perugia dalla Procura della Corte d’appello di Roma dove era il procedimento n. 6/1985 R.g. 
+
+20 
+
+ 
+ 
+                                                
+•  5  febbraio  1986.  Il  giudice  istruttore  Materia  apre  comunque  un’istruttoria  formale  contro 
+
+Infelisi per corruzione.  
+
+•  30 settembre 1987. Il CSM chiede di acquisire gli atti del procedimento su Alibrandi e Infelisi, 
+
+così come la fa la DIA il 14 giugno 1993.  
+
+•  12 marzo 1988. Il giudice Infelisi è definitivamente prosciolto. 
+
+ALIBRANDI E LE MINACCE AD AMATO  
+
+Documentazione consultabile sul portale del Consiglio Superiore della Magistratura e conservata in 
+
+copia presso AF, Archivio digitale, Serie Mario Amato, documenti. 
+
+•  5 dicembre 1977. Richiesta di chiarimenti avanzata dal presidente del CSM. 
+
+•  25 novembre 1977 esposti di Alibrandi. 
+
+•  7 e 8 maggio 1980. Assemblee plenarie del CSM sul caso dei presunti favoritismi di Alibrandi 
+
+a personaggi del gruppo Caltagirone. 
+
+•  Dal 24 ottobre 1978. Azioni disciplinari dei procuratori generali presso la Corte di Cassazione 
+
+contro  Alibrandi;  azione  del  Procuratore  generale  Ignazio  Straniero  per  avere  interferito  in 
+
+un’indagine sul Fronte della Gioventù; azione del procuratore Angelo Ferrati dell’11 febbraio 
+
+1981 per minacce e insulti ad Amato; azione del 22 maggio 1981 di Ferrati per minacce ad altri 
+
+giudici. 
+
+•  28 settembre 1982. Sentenza della Sezione disciplinare del CSM. 
+
+•  19 maggio 1983. Sezioni unite civili della Corte di Cassazione parziale accoglimento del ricorso 
+
+di Alibrandi. 
+
+•  4 maggio 1984. La Sezione disciplinare del CSM dispone ulteriore annullamento delle sanzioni. 
+
+ALTRE FONTI 
+
+•  Archivio del Banco Ambrosiano conservato presso l’Archivio di Intesa San Paolo a Milano.  
+
+• 
+
+Il  Rapporto  ispettivo  della  Banca  d’Italia  del  1978  e  altri  documenti  della  Banca  d’Italia 
+
+attinenti all’Ambrosiano pubblicati dalla Commissione P2 nel Volume VIII Tomo III, IV, V, 
+
+VII, IX, i rapporti finanziari con l’Istituto Opere Religiose del Vaticano sono approfonditi nel 
+
+Tomo VI e VIII. 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OMICIDIO ROBERTO CALVI 
+
+Documentazione conservata presso l’Archivio della Corte d’Assise di Roma. 
+
+PROCESSO PER LA RICETTAZIONE DELLA BORSA E DEI DOCUMENTI 1991/2005. 
+
+•  14  giugno  1991.  A  seguito  delle  indagini  preliminari  sulla  ricettazione  della  borsa  e  dei 
+
+documenti  di  Calvi,  il  giudice  istruttore  Mario  Almerighi  della  Procura  della  Repubblica  di 
+
+Roma, pubblico ministero Francesco De Leo, chiede il rinvio a giudizio per Flavio Carboni, 
+
+Giulio Lena e monsignor Hnilica. 
+
+•  19 dicembre 1991. Procura della Repubblica di Milano apre il procedimento n. 13207/91 per 
+
+omicidio contro Calò, Franco Di Carlo, Flavio Carboni, Licio Gelli. 
+
+•  23 gennaio 1992. Il Procuratore generale presso la Corte di Cassazione Bruno Frangini dispone 
+
+il trasferimento delle indagini alla Procura della Repubblica di Roma. 
+
+•  23 marzo 1993. Sentenza del Tribunale di Roma condanna Carboni, Lena e Hnilica. 
+
+•  4 luglio 1994. Sentenza Corte d’appello di Roma annulla le condanne per vizio di forma. 
+
+•  8  marzo  2000.  Sentenza  del  Tribunale  di  Roma  condanna  Carboni  e  Lena  e  assolve 
+
+parzialmente Hnilica. 
+
+•  23 maggio 2002. Sentenza della Corte d’appello di Roma assolve Flavio Carboni e Giulio Lena. 
+
+•  14 novembre 2003. Sentenza della Corte di Cassazione, a seguito del ricorso del procuratore 
+
+generale Franco Serrao, rimanda alla Corte d’appello. 
+
+•  19 ottobre 2005. La terza sezione della Corte d’appello di Roma conferma l’assoluzione, il reato 
+
+va in prescrizione. 
+
+PROCESSO PER L’OMICIDIO 1997/201141  
+
+Procedimento  n.  7557/96  R.g.  Gip,  n.  13034/95  R.g.p.m.,  n.  21/05  e  32/08  R.g.  presso  la  Corte 
+
+d’assise di Roma. Documentazione non ordinata e conservata presso l’Archivio della Corte d’Assise 
+
+di Roma. 
+
+•  8 novembre 1985. Sentenza-ordinanza di rinvio a giudizio del giudice istruttore. 
+
+•  8  aprile  1997.  Il  pubblico  ministero  Giovanni  Salvi  e  il  Giudice  per  le  indagini  preliminari 
+
+Mario  Almerighi  del  Tribunale  del  Riesame  dispongono  la  custodia  cautelare  per  Flavio 
+
+Carboni e Giuseppe Calò. 
+
+•  15 ottobre 2003. I pubblici ministeri Luca Tescaroli e Maria Monteleone chiedono il rinvio a 
+
+giudizio per Giuseppe Calò, Flavio Carboni, Ernesto Diotallevi e Manuela Kleinszig, compagna 
+
+di Carboni, più avanti è aggiunto Silvano Vittor. 
+
+41 Per una ricostruzione della vicenda giudiziaria cfr. Pinotti 2005. 
+
+22 
+
+ 
+ 
+                                                
+•  10 marzo 2004. Il consulente della procura di Roma, Vittorio Maugeri, consegna a Tescaroli la 
+
+consulenza  tecnica  contabile  sui  flussi  finanziari  internazionali  del  Banco  Ambrosiano  e  di 
+
+Carboni42.  
+
+•  5  ottobre  2005.  Inizia  il  nuovo  procedimento  penale  n.  13034/95  presso  la  Corte  d’assise  di 
+
+Roma contro Calò, Carboni, Diotallevi, Vittor e Kleinszig. 
+
+•  9  marzo  2007.  Nella  requisitoria  il  pubblico  ministero  Tescaroli  chiede  l’ergastolo  per  gli 
+
+imputati e per Vittor come probabile esecutore43.  
+
+•  6 giugno 2007. La sentenza della II Corte d’assise di Roma assolve tutti gli imputati con formula 
+
+analoga all’insufficienza di prove ma ribadisce l’esistenza di forti legami fra lo Ior, il Banco 
+
+Ambrosiano e Cosa Nostra. 
+
+•  7 maggio 2010. La sentenza della Corte d’assise d’appello conferma assoluzioni ma afferma 
+
+che la morte di Roberto Calvi fu omicidio. 
+
+•  17  novembre  2011.  La  Suprema  Corte  di  Cassazione  respinge  il  ricorso  del  procuratore 
+
+generale, le assoluzioni diventano definitive. 
+
+NUOVA INCHIESTA 2008/2016  
+
+Procedimento n. 15464/08 R.g.n.r. 
+
+•  17  ottobre  2013.  Il  pubblico  ministero  Tescaroli  avanza  la  richiesta  di  archiviazione  Gelli, 
+
+Kunz, Pazienza, Mazzotta, Casillo e Carboni per omicidio Calvi. 
+
+•  2016. Il Giudice per le indagini preliminari Simonetta D’Alessandro dispone l’archiviazione. 
+
+FERIMENTO DI ROBERTO ROSONE 
+
+Documentazione interamente digitalizzata conservata presso l’Archivio di Stato di Milano e in copia 
+
+presso AF, Archivio digitale. 
+
+PRIMO PROCESSO 1987/1996 
+
+•  25 giugno 1987. Sentenza-ordinanza dei sostituti procuratori di Milano Pier Luigi Dell’Osso e 
+
+Alfonso Marra di rinvio a giudizio per Flavio Carboni, Ernesto Diotallevi come mandanti. 
+
+•  14 gennaio 1994. La sentenza della Corte di assise di Milano nel procedimento n. 2/88 R.g. 
+
+contro Diotallevi, Carboni, Nieddu Bruno, Calò Giuseppe, Popper Gabrielle. 
+
+•  17  gennaio  1996.  La  sentenza  della  Corte  di  assise  d’appello  di  Milano  assolve  Carboni  e 
+
+Diotallevi. 
+
+42 Documentazione conservata in copia presso AF, Archivio digitale, Fondo Nunziata. 
+43 Il testo della requisitoria è pubblicato in Dossier delitto Calvi 2008. 
+
+23 
+
+ 
+ 
+ 
+ 
+                                                
+•  25 novembre 1996. La sentenza della Suprema Corte di Cassazione che riforma parzialmente 
+
+le precedenti e rimanda a un nuovo processo. 
+
+•  23 marzo 1998. La sentenza della Corte di assise di appello di Milano nel procedimento n. 1/97 
+
+e 31337/98 R.g. condanna nuovamente Carboni e Diotallevi. 
+
+•  24  febbraio  1999.  La  sentenza  della  V  sezione  della  Suprema  Corte  di  Cassazione  assolve 
+
+Flavio  Carboni  e  Ernesto  Diotallevi  dall’accusa  di  essere  i  mandanti  e  condanna 
+
+definitivamente Bruno Nieddu per tentato omicidio. 
+
+OMICIDIO DEL MAGISTRATO VITTORIO OCCORSIO 
+
+INDAGINI DI OCCORSIO E PRIMO PROCESSO CONTRO ORDINE NUOVO  
+
+Documentazione conservata presso l’Archivio di Stato di Roma, in corso di digitalizzazione, frutto 
+
+di versamento anticipato e in copia presso AF, Archivio digitale, Fondo Nunziata. 
+
+•  1971. Il sostituto Procuratore della Procura della Repubblica di Roma Vittorio Occorsio avvia 
+
+le indagini sui legami fra marsigliesi, eversione nera e loggia P2. 
+
+•  6 giugno 1973. Si apre il dibattimento del procedimento n. 4059/71 A R.g.p.m. e n. 1605/74 
+
+R.g. contro Clemente Graziani +41. 
+
+•  21 novembre 1973. La sentenza n. 5863/73 del Tribunale di Roma condanna gli imputati. 
+
+•  28  dicembre  1978.  La  sentenza  n.  2088/78  della  Corte  d’appello  di  Roma  contro  Clemente 
+
+Graziani +27. 
+
+•  1979. Sentenza della Suprema Corte di Cassazione. 
+
+PROCESSI PER L’OMICIDIO DI VITTORIO OCCORSIO 1978/1989 
+
+Procedimento n. 10/77 R.g., n. 14/78 R.g. e successivamente n. 18/79 R.g. della Corte d’assise di 
+
+Firenze. Documentazione conservata presso l’archivio del Tribunale civile e penale di Firenze, atti 
+
+relativi alla loggia P2 acquisiti dal procedimento romano contro la loggia44. 
+
+•  Procura  della  Repubblica  di  Firenze.  Sostituti  procuratori  di  Firenze  Pier  Luigi  Vigna  e 
+
+Pappalardo istruiscono processo. 
+
+•  16  marzo  1978.  La  sentenza  n.  1/78  del  procedimento  n.  10/77  R.g.  della  Corte  d’assise  di 
+
+Firenze condanna Pierluigi Concutelli e Gianfranco Ferro. 
+
+•  12  dicembre  1978.  La  sentenza  della  Corte  d’assise  di  Firenze  conferma  le  condanne  a 
+
+Concutelli e Ferro. 
+
+44 ASR, Processo n. 59/94 contro Gelli e altri, Istruttoria, Volume XXIII - fascicolo 13. 
+
+24 
+
+ 
+ 
+ 
+ 
+                                                
+•  6 marzo 1980. La Suprema Corte di Cassazione rigetta i ricorsi degli imputati. 
+
+•  21 marzo 1985. La sentenza della Corte d’assise di Firenze condanna Sergio Calore, Stefano 
+
+delle Chiaie, Clemente Graziani, Elio Massagrande, Giuseppe Pugliese e Paolo Signorelli come 
+
+mandanti dell’omicidio. 
+
+•  12 marzo 1986. La sentenza n. 10/8 della Corte d’assise di appello di Firenze nel procedimento 
+
+n. 20/85 R.g. assolve per insufficienza di prove Massagrande, Delle Chiaie e Graziani45. 
+
+•  9  febbraio  1987.  La  sentenza  n.  312  della  Suprema  Corte  di  Cassazione,  procedimento  n. 
+
+31654/86 R.g., annulla la sentenza appello. 
+
+•  16  ottobre  1987.  La  sentenza  n.  27  della  Seconda  sezione  della  Corte  d’assise  di  appello  di 
+
+Firenze nel procedimento n. 6/87 R.g. assolve Graziani, Massagrande, Gozi, Meli, Pugliese, 
+
+Sparapani Sandro e Saverio, Papa, assolve parzialmente Calore e Tisei.  
+
+•  16 gennaio 1989. La sentenza n. 44 della Suprema Corte di Cassazione nel procedimento n. 
+
+4525/88 R.g. riannulla la sentenza della Corte d’assise d’appello di Firenze e dispone nuovo 
+
+giudizio affidandolo alla Corte d’assise di Bologna.  
+
+•  7 marzo 1990. La sentenza della Corte d’assise d’appello di Bologna46, procedimento n. 4/89 
+
+R.g., assolve quasi tutti. 
+
+•  10  maggio  1991.  La  sentenza  n.  393  della  Suprema  Corte  di  Cassazione,  procedimento  n 
+
+15909/90 R.g. annulla la sentenza d’assoluzione riassegnando il procedimento a una diversa 
+
+sezione della Corte d’assise di Bologna.  
+
+•  1° dicembre 1993. La sentenza, depositata il 19 maggio 1994, della Corte d’assise d’appello di 
+
+Bologna, procedimento n. 16/91 R.g., assolve Signorelli. 
+
+•  25 ottobre 1994. La Suprema Corte di Cassazione dichiara inammissibili i ricorsi presentati dal 
+
+procuratore generale di Bologna il 2 dicembre 1993. A seguito di questo undicesimo grado di 
+
+giudizio per l’omicidio Occorsio risultano colpevoli solo Ferro e Concutelli. 
+
+45  Conservata  in  copia  presso  la  biblioteca  del  Centro  di  documentazione  «Cultura  della  legalità  democratica»  della 
+Regione Toscana. 
+46 Documentazione conservata presso la Corte d’assise di Bologna. 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+OMICIDIO DEL MAGISTRATO MARIO AMATO 
+
+•  25 marzo 1980. Audizione di Mario Amato davanti al CSM.  
+
+•  13 giugno 1980. Seconda audizione al CSM. 
+
+PRIMO PROCESSO  
+
+Procedimenti n. 8/83 contro Cavallini Gilberto +11, n. 7/88 R.g contro Signorelli della Corte d’assise 
+
+di Bologna. Documentazione conservata presso l’Archivio di Stato di Bologna, frutto di versamento 
+
+anticipato, consultabile anche sul portale del Consiglio Superiore della Magistratura e in copia presso 
+
+AF, Archivio digitale, serie Atti processuali per omicidio di Mario Amato. 
+
+•  5  aprile  1984.  Sentenza  –  digitalizzata  in  5  parti  –  n.  9/84  della  Corte  d’assise  di  Bologna, 
+
+procedimento n. 8/83 R.g., condanna Fioravanti, Mambro Cavallini, Signorelli. 
+
+•  6 febbraio 1986. Sentenza n. 3/86 della Corte d’assise d’appello di Bologna nel procedimento 
+
+n. 23/85 R.g. assolve Paolo Signorelli e conferma il resto delle condanne.  
+
+•  16 dicembre 1987. Sentenza della Suprema Corte di Cassazione n. 2846 nel procedimento n. 
+
+46161/86 R.g. conferma le condanne, dichiara inammissibili i ricorsi e annulla l’assoluzione di 
+
+Signorelli per cui deve esserci un altro grado di giudizio. 
+
+•  2 luglio 1988. Sentenza – digitalizzata in 4 parti – n. 35/88, depositata il 10 ottobre, della Corte 
+
+d’assise d’appello di Bologna nel procedimento n. 7/88 R.g. contro a Signorelli riconosce solo 
+
+il concorso ritornando alle conclusioni della sentenza del 1984. 
+
+•  28 febbraio 1989. Suprema Corte di Cassazione dispone l’annullamento della nuova pronuncia 
+
+del 1988 e trasmette al Tribunale di Firenze. 
+
+SECONDO PROCESSO 
+
+•  15 gennaio 1990. Sentenza n. 2/90 della Corte d’assise d’appello di Firenze nel procedimento 
+
+n. 18/89 R.g., assolve definitivamente Paolo Signorelli. 
+
+INDAGINI SULLA MANCATA PROTEZIONE47  
+
+•  22  novembre  1980.  Ordinanza  della  Sezione  disciplinare  del  CSM  sospende  il  magistrato 
+
+Giovanni Di Matteo. 
+
+•  22 novembre 1982. Sentenza della Corte di Cassazione a sezioni unite, depositata il 5 febbraio 
+
+1983, annulla la sospensione di Di Matteo. 
+
+47 Procura di Roma trasmette a Perugia l’indagine sul procuratore Giovanni de Matteo che aveva ignorato richieste di 
+aiuto e protezione di Mario Amato. Il Procuratore generale di Perugia Arioti avvia formalmente indagine per omissione 
+in  atti  d’ufficio  ma  ignora  De  Matteo  che  è  il  principale  responsabile  e  chiede  al  giudice  istruttore  Nicola  Miriano 
+l’archiviazione, Miriano invece prosegue le indagini su De Matteo. Si arriva comunque al proscioglimento in istruttoria 
+per amnistia nel 1981. 
+
+26 
+
+ 
+ 
+ 
+                                                
+FRANCESCO PAZIENZA 
+
+•  Profilo  di  Francesco  Pazienza  redatto  da  consulenti  della  Commissione  parlamentare 
+
+d’inchiesta sulla Loggia P248.  
+
+•  Documentazione del Sisde, del Sismi, dei Carabinieri e della Guardia di Finanza su Pazienza e 
+
+lettera  di  Pazienza  a Tina  Anselmi  pubblicati  dalla  Commissione  P2  nel  Volume  VII Tomo 
+
+XXI pp. 477 - 780.  
+
+MEMORIALI PAZIENZA49 
+
+•  Alla Procura di Perugia nel 1982. 
+
+•  Alla Procura di Roma il 25 febbraio e nel luglio 1982 nell’ambito del processo P2. 
+
+•  Al giudice Misiani il 24 ottobre 1984 e diffuso a brani dall’Ansa.  
+
+•  Ai giudici istruttori Zincani e Castaldo del Tribunale di Bologna il 14 giugno 1986 nell’ambito 
+
+del procedimento penale n. 344/80 G.i. contro Pedretti Dario e altri imputati di strage e altro. 
+
+STRATEGIE GOLPISTE 
+
+Punto di partenza per analizzare l’intreccio di interessi fra le strategie golpiste e neofasciste e le trame 
+
+della loggia P2 sono le tre informative redatte dal prefetto a capo dell’Ispettorato generale per l’azione 
+
+contro il terrorismo Emilio Santillo: informativa sul gruppo Gelli al giudice del Tribunale di Padova 
+
+Tamburino del 17 dicembre 1974 basata sui due rapporti del 6 e 7 dicembre; seconda informativa del 
+
+27 dicembre 1975; terza informativa al giudice di Firenze Vigna del 9 ottobre 197650. 
+
+NUCLEI TERRITORIALI DI DIFESA DELLO STATO 
+
+• 
+
+Inchiesta di Guido Salvini sui Nuclei territoriali di difesa dello Stato da cui emerge ruolo di 
+
+Gelli. Documentazione inviata ai giudici Ionta e Lupacchini di Roma che poi archiviano. 
+
+•  18  marzo  1995.  Sentenza-ordinanza  del  giudice  Guido  Salvini  del  Tribunale  di  Milano  nel 
+
+procedimento  penale  n.  2643/84A  R.g.p.m.  e  n.  721/88F  R.g.g.i.  contro  Nico  Azzi  e  altri 
+
+accusati di banda armata e associazione sovversiva in riferimento a Ordine Nuovo e al gruppo 
+
+La Fenice Rognoni51. 
+
+48 In AF, Sergio Flamigni, Sezione III, Serie P2 e massoneria e in Piera Amendola. 
+49 In AF, Archivio digitale, Fondo Nunziata. 
+50 Una riproduzione di tutti i rapporti Santillo su Gelli e la loggia P2 è conservata in ASR, Processo n. 59/94 contro Gelli 
+e altri, Istruttoria, Volume XXXII, U.A. 72. 
+51 In AF, Archivio digitale, Processo Ordine Nuovo - gruppo La Fenice. 
+
+27 
+
+ 
+ 
+ 
+ 
+                                                
+•  3 febbraio 1998. Sentenza-ordinanza nell’ambito del procedimento penale n. 9/92A R.g.p.m. e 
+
+n. 2/92F R.g.g.i. nei confronti di Rognoni Giancarlo +3252. 
+
+GOLPE BORGHESE 1974/1985 - 1995/1997 
+
+Procedimenti n. 49/75 e n. 17626/95 R.g. della Corte d’assise di Roma. Documentazione conservata 
+
+presso la Corte d’assise di Roma e in copia presso AF, Archivio digitale, serie Golpe Borghese. 
+
+•  1971. Inchiesta del Procuratore Vitalone contro Borghese, Orlandini, Rosa, Saccucci si chiude 
+
+con archiviazione per insufficienza di prove. 
+
+•  1972.  Inchiesta  del  Sid  di  Maletti  e  Labruna  collega  Miceli  ad  Orlandini  e  Borghese  viene 
+
+ampiamente citato il coinvolgimento di Licio Gelli. 
+
+•  1974. Andreotti consegna l’informativa di Maletti alla Procura di Roma. 
+
+•  15 settembre 1974. Si apre a Roma una nuova istruttoria.  
+
+•  30 dicembre 1974. La Suprema Corte di Cassazione stabilisce la competenza del Tribunale di 
+
+Roma  per  i  procedimenti  su  Golpe  Borghese,  Rosa  dei  Venti,  Sid  Parallelo  e  Pomar  che 
+
+vengono riuniti. 
+
+•  9 settembre 1995. Requisitoria del sostituto Procuratore Claudio Vitalone della Procura della 
+
+Repubblica di Roma nel procedimento penale contro Borghese +143. 
+
+•  5 novembre 1975. Sentenza ordinanza n. 3361/71A R.g.p.m., n. 1054/71 R.g.g.i. del giudice 
+
+istruttore Filippo Fiore, proscioglie gli imputati53.  
+
+•  30 maggio 1977. Riapertura processo 
+
+•  14 luglio 1978. La sentenza n. 29/78 della Corte d’assise di Roma nel procedimento n. 49/75 
+
+R.g. assolve Miceli e Filippo De Iorio, condanna gli imputati per la Rosa dei Venti – Orlandini, 
+
+Lercari, Spiazzi, Ricci, Cavallaro, Nardella – ad esclusione di Graziani e Massagrande54. 
+
+52 Documentazione conservata in copia presso AF, Archivio digitale, Processo Ordine Nuovo - gruppo La Fenice e presso 
+la biblioteca del Centro di documentazione «Cultura della legalità democratica» della Regione Toscana. 
+53  Imputati:  Remo  Orlandini,  Mario  Rosa,  Gennaro  Ciolfi,  Paolo  Pinnaci,  Gabriele  Di  Nardo,  Federico  Ratti,  Renato 
+Ridella, Angelo Cagnoni, Cesare Pezzi, Massimo Costantini Bozzini, Gavino Matta, Sandro Saccucci, Gaetano Bove, 
+Giancarlo De Marchi, Giampaolo Porta Casucci, Dario Zagolin, Roberto Cavallaro, Giovanni Zilio, Felice Costantini, 
+Francesco Nardella, Alfredo Dacci, Bruno Zoia, Virigilio Camillo, Franco Montani, Cipriano Zannoni, Federico Pietro 
+Benvenuto, Torquato Nicoli, Attilio Lercari, Sandro Rampazzo, Amos Spiazzi, Giuseppe Menocchio, Ugo Ricci, Ignazio 
+Cricchio, Luciano Berti, Enzo Capanna, Vito Pace, Salvatore Pecorella, Adriano Sturlese, Sergio Cardellini, Leopoldo 
+Parigini, Filippo De Jorio, Domenico Tizzoni, Vito Miceli, Eliodoro Pomar, Giacomo Micalizio, Stefano Delle Chiaie, 
+Attilio Lercari, Pietro Federico Benvenuto, Stefano Tubino, Mario Scolari, Salvatore Drago, Lorenzo Pinto, Ugo Ricci, 
+Giovanni  Battista  Belotti,  Edgardo  Massa,  Giacomo  Tubino,  Elio  Massagrande,  Clemente  Graiani,  Ignazio  Cricco, 
+Massimo Cipriani, Giovanni De Rosa, Giuseppe Lo Vecchio, Giuseppe Casero, Dante Ciabatti, Gino Arista, Giuseppe 
+Lombardi,  Stefano  Bruno  Luciano,  Bruno  Zota,  Eugenio  Rizzato,  Franco  Anitico,  Mario  Pavia,  Alberto  Bernardino 
+Mariantoni, Cesare Ferri, Maria Mascetti, Paolo Pinacci, Enrico Bonvicini, Pietro Carmassi, Mario Bottari, Luigi Carlo 
+Silvi, Adriano Monti, Tommaso Rook Adami. 
+54 Documentazione conservata in copia presso AF, Archivio digitale e conservata in copia presso la biblioteca del Centro 
+di documentazione «Cultura della legalità democratica» della Regione Toscana. 
+
+28 
+
+ 
+ 
+                                                
+•  27  novembre  1984.  La  sentenza  n.  50/84  della  Corte  d’assise  d’appello  di  Roma  nel 
+
+procedimento n. 54/79 R.g.  assolve quasi tutti gli imputati e riduce alcune condanne per porto 
+
+d’armi55. 
+
+•  23 ottobre 1985. Ordinanza della Suprema Corte di Cassazione assolve tutti gli imputati. 
+
+•  24 marzo 1986. Sentenza della Suprema Corte di Cassazione. 
+
+•  Giudice istruttore Salvini trasmette al Tribunale di Roma gli atti relativi ad abusi d’ufficio, ai 
+
+depistaggi di Maletti e Romagnoli e alla cospirazione per Gelli, nonché gli atti relativi ai Nuclei 
+
+territoriali di difesa dello stato e alle relative legioni contenuti nella sentenza n. 721/88F e nei 
+
+relativi atti istruttori del procedimento sul depistaggio del Sid sulla strage di piazza Fontana. 
+
+•  1995. Si apre nuovo procedimento n. 17626/95 R.g.r. 
+
+•  10  luglio  1997.  Il Pubblico  Ministero  Ionta  avanza  la  richiesta  di  archiviazione  per  Maletti, 
+
+Romagnoli,  Labruna,  Delfino  e  Gelli  –  qui  indagato  per  cospirazione  e  insurrezione  armata, 
+
+attentato al presidente della Repubblica nell’ambito del procedimento n. 17626/95R R.g. 
+
+•  30  ottobre  1997.  Nell’ambito  del  procedimento  n.  16636/95  G.i.p.  e  n.  17626/95R  R.g.  il 
+
+giudice per le indagini preliminari Otello Lupacchini accoglie la richiesta di archiviazione. 
+
+ROSA DEI VENTI - INCHIESTE E INFORMATIVE  
+
+Procedimento confluito in quello per il Golpe Borghese, atti giudiziari acquisiti nel procedimento n. 
+
+49/75 della Corte d’assise di Roma. 
+
+•  1973.  Giancarlo  Porta  Casucci  consegna  al  capo  della  mobile  di  Genova  un  documento  su 
+
+un’organizzazione eversiva. Si apre un’inchiesta prima a La Spezia poi alla procura di Padova 
+
+dove i giudici Nunziante e Tamburino ordinano dieci arresti.  
+
+•  Marzo 1974. Cavallaro parla di diverse complicità fino a Michele Sindona.  
+
+•  31 ottobre 1974. È arrestato il generale Miceli.  
+
+ROSA DEI VENTI - PROCESSO  
+
+•  30 dicembre 1974. La Suprema Corte di Cassazione ordina il trasferimento del procedimento a 
+
+Roma e la sua unione con quello sul Golpe Borghese condotto dal giudice istruttore Fiore e dal 
+
+pubblico ministero Vitalone.  
+
+•  30 maggio 1977. Inizia il processo, Miceli è assolto e vengono emesse 46 condanne minori.  
+
+•  27 novembre 1984. La Corte d’assise d’appello – procedimento per il Golpe Borghese – annulla 
+
+le condanne e nega che ci sia stato tentato golpe. 
+
+55 Copia digitale conservata presso AF, Archivio digitale. 
+
+29 
+
+ 
+ 
+ 
+ 
+                                                
+ROSA DEI VENTI - ALTRA DOCUMENTAZIONE GIUDIZIARIA  
+
+•  Audizioni del generale Gianadelio Maletti al giudice Tamburino dell’autunno 1974 e al giudice 
+
+dell’Orco del 29 maggio 1978. 
+
+•  Consulenza di Aldo Giannuli sulla Rosa dei Venti per la Procura di Brescia del 199856. 
+
+SID PARALLELO 
+
+Procedimento  n.  298/76C  del  Tribunale  di  Roma  acquisiti  fra  gli  atti  del  processo  Italicus. 
+
+Documentazione conservata in copia presso AF, Archivio digitale, Serie strage Italicus. 
+
+•  20 ottobre 1978. Richiesta di archiviazione del Procuratore della Repubblica di Roma accolta 
+
+dal  giudice  istruttore  il  22  febbraio  1980.  Atti  relativi  ad  accertamenti  circa  un  organismo 
+
+occulto che opererebbe all’interno del Sid. 
+
+GOLPE BIANCO57 
+
+Procedimento  n.  665/75  R.g.g.i.  Tribunale  di  Torino  con  Giudice  istruttore  Francesco  Amato, 
+
+Pubblico ministero Alberto Dell’Orco e Luciano Violante. Documentazione acquisita fra gli atti del 
+
+processo per il Golpe Borghese. 
+
+•  Gennaio/febbraio 1975. Il pubblico ministero Violante acquisisce la documentazione del Sid 
+
+sul progetto di Sogno, la scarsa documentazione è piena di omissis. 
+
+•  5 maggio 1976. Invio degli atti da Torino e Roma e mandato d’arresto per Sogno e Cavallo. 
+
+•  12 settembre 1978. Il Giudice istruttore Francesco Amato proscioglie gli imputati perché il fatto 
+
+non sussiste. 
+
+PROCESSO AI DELITTI POLITICI 1989/1999 
+
+OMICIDIO MATTARELLA58 
+
+Procedimento n. 8/91 R.g.c.a. contro Greco Michele +12 e n. 21/96 contro Greco +10 della Corte 
+
+d’assise di Palermo. Gli atti processuali sui cosiddetti «delitti politici» commessi da Cosa Nostra nei 
+
+primi anni Ottanta – Michele Reina 9 marzo 1979, Piersanti Mattarella 6 gennaio 1980 e Pio La Torre 
+
+30  aprile  1982  –  riuniti  nei  processi  celebrati  a  Palermo  fra  il  1991  e  il  1999,  sono  consultabili 
+
+nell’Archivio digitale Pio La Torre, le sentenze della Corte d’assise di Palermo sono conservate in 
+
+56 Si rimanda al paragrafo relativo alle consulenze per le procure. 
+57 Imputati: Edgardo Sogno, Luigi Cavallo, Randolfo Pacciardi, Andrea Borghesio, Vincenzo Pagnozzi, Maria Antonietta 
+Nicastro, Remo Orlandini, Lorenzo Pinto, Salvatore Drago, Salvatore Pecorella, Ugo Ricci. 
+58 Cfr. Turone 2020. 
+
+30 
+
+ 
+  
+ 
+ 
+ 
+                                                
+copia anche presso AF, Archivio digitale, serie Omicidi di mafia, sotto-serie Reina, Mattarella, La 
+
+Torre. 
+
+•  8 settembre 1989. Loris D’Ambrosio, Relazione sull’omicidio dell’on. Mattarella59. 
+
+•  9  marzo  1991.  Requisitoria  dei  Sostituti  procuratori  Sciacchitano,  Lo  Forte,  Pignatone  e 
+
+Scarpinato della Procura della Repubblica di Palermo, procedimento penale n. 3162/89 A P.m. 
+
+contro Michele Greco +10 
+
+•  30 maggio 1991. Memoria dei legali di parte civile Giuseppe Zupo e Armando Sorrentino60. 
+
+•  9  giugno  1991.  Sentenza-ordinanza  di  rinvio  a  giudizio  del  giudice  istruttore  Natoli 
+
+procedimento penale n. 3162/89 A P.m. n. 1165/89 R.g.u.i. per Michele Greco +18. 
+
+•  22 aprile 1992. Inizia il processo per i delitti Mattarella, Reina, La Torre presso la I sezione 
+
+della Corte d’assise di Palermo, pubblici ministeri Lo Forte e Pignatone. 
+
+•  12  aprile  1995.  La  sentenza  n.  9/95  della  Corte  d’assise  di  Palermo,  procedimento  n.  8/91 
+
+R.g.c.a., condanna come mandanti Riina, Greco, Brusca, Provenzano, Calò, Madonia e Geraci, 
+
+assolve Fioravanti e Cavallini, condanna per calunnia Izzo e Pellegriti. In Archivio Pio La Torre 
+
+sono consultabili le udienze del dibattimento. 
+
+•  17 febbraio 1998. La sentenza n. 4/98 della Corte d’assise d’appello di Palermo, depositata il 
+
+19  ottobre  1998  nel  procedimento  n.  21/96  R.g.  conferma  la  sentenza  di  primo  grado.  In 
+
+Archivio Pio La Torre sono consultabili le udienze del 1997. 
+
+•  Maggio 1999. La Suprema Corte di Cassazione conferma condanne e assoluzioni. 
+
+•  30  agosto  2017.  Atto  d’impulso  del  Procuratore  nazionale  antimafia  Franco  Roberti  al 
+
+procuratore di Palermo per riaprire le indagini.  
+
+•  4 gennaio 2018. Procura della Repubblica di Palermo riapre le indagini61.  
+
+MASSONERIA SICILIANA E RAPPORTI TRA LA P2 E COSA NOSTRA 
+
+ANONIMA SEQUESTRI DI LIGGIO E I LEGAMI CON IL BANCO AMBROSIANO E LA P2 
+
+Nell’ambito delle indagini condotte dall’Ufficio Istruzione del Tribunale di Milano sulle cellule di 
+
+Cosa Nostra in Lombardia emerge a più riprese il legame con il Banco Ambrosiano per il riciclaggio 
+
+dei soldi, intreccio nuovamente citato nella requisitoria Tescaroli del 2007 al processo per l’omicidio 
+
+59 In AF, Archivio digitale, Fondo Nunziata per il testo e i 34 allegati alla relazione. 
+60 Documentazione conservata in copia presso AF, Archivio digitale e in Fondo Zupo. 
+61 Cfr. Lo Bianco, Rizza 2018. 
+
+31 
+
+ 
+ 
+ 
+                                                
+di Roberto Calvi62. Documentazione conservata in copia presso AF, Archivio digitale, serie Processo 
+
+all’Anonima sequestri di Luciano Leggio. 
+
+•  7  gennaio  1976.  Sentenza-ordinanza  n.  991/73  di  rinvio  a  giudizio  del  giudice  istruttore  di 
+
+Milano per Guzzardi +42. 
+
+•  13 novembre 1976. Sentenza n. 626/76 R.g. del Tribunale di Milano contro Guzzardi +31. 
+
+•  19 dicembre 1979. La sentenza n. 6332/79 contro Guzzardi +31 condanna a pene diverse gli 
+
+imputati per i rapimenti Torielli e Rossi di Montelera e per il reato associativo. 
+
+•  2  aprile  1982.  La  sentenza  n.  1637/83  della  II  Sezione  della  Suprema  Corte  di  Cassazione, 
+
+depositata il 24 febbraio 1983. 
+
+PROCESSO ANDREOTTI PER MAFIA 1995/200463 
+
+Procedimenti  n.  3538/94  R.g.,  n.  505/95  R.g.t.  e  n.  3/2001  R.g.  del  Tribunale  di  Palermo. 
+
+Documentazione conservata presso il Tribunale civile e penale di Palermo. 
+
+•  1993. Pubblico Ministero Caselli iscrive Andreotti fra gli indagati.  
+
+•  11 settembre/20 novembre 1995. Perizia dei consulenti Giuseppe De Lutiis, Piera Amendola e 
+
+Gerardo  Padulo  sui  rapporti  fra  Licio  Gelli  e  Andreotti  realizzata  per  la  Procura  della 
+
+Repubblica di Palermo e seconda perizia dei consulenti De Lutiis, Amendola e Ercole Nunzi 
+
+sul profilo di Mandalari64. 
+
+•  23 ottobre 1999. La sentenza I grado del Tribunale di Palermo nel procedimento n. 3538/94 
+
+R.g. e n. 505/95 R.g.t., depositata il 16 maggio 2000, assolve Giulio Andreotti65. 
+
+•  17 novembre 2002. La sentenza n. 4/2002 della Corte d’appello di Palermo, depositata il 13 
+
+febbraio 2003, dichiara Andreotti colpevole del reato di associazione mafiosa ma solo fino al 
+
+198066.  
+
+•  15  ottobre  2004.  La  sentenza  n.  49291/2004  della  II  sezione  penale  della  Suprema  Corte  di 
+
+Cassazione,  depositata  il  28  dicembre  2004,  conferma  la  condanna  ma  estingue  reato  per 
+
+prescrizione67. 
+
+62  Cfr.   G.  Turone  2021,  p.  147 e  la  scheda  redatta da  Giuliano Turone  per  il  portale della Rete  degli  archivi per  non 
+dimenticare.  
+63 Per una ricostruzione di questa vicenda giudiziaria si rimanda al dossier de «la Repubblica» del 20 febbraio 1999.  
+64 Si rimanda al paragrafo relativo alle consulenze. 
+65 Pubblicata su «Il Foro italiano», vol. 124, n. 2, febbraio 2001, p. 96. 
+66 Motivazioni della sentenza conservate in copia presso AF, Archivio digitale. 
+67 Pubblicata in «Diritto penale e processo», n. 5, 2005, p. 593. Documentazione presente in copia presso la biblioteca del 
+Centro di documentazione «Cultura della legalità democratica» della Regione Toscana. 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+                                                
+CENTRO SCONTRINO E LEGAMI MAFIA-MASSONERIA A TRAPANI 
+
+•  1986. Indagini del Sostituto procuratore Barresi di Palermo sul Centro sociologico Scontrino 
+
+dove sono sequestrate le liste di appartenenti a sette logge massoniche di cui una coperta, la 
+
+Iside 2. 
+
+•  27 novembre 1989. Requisitoria del Pubblico Ministero68. 
+
+•  19 ottobre 1990. Sentenza-ordinanza del Giudice istruttore Stefano Orsi69. 
+
+•  1993. Tribunale di Trapani processo contro Giovanni Grimaudo, si chiude con la condanna per 
+
+associazione segreta contro Grimaudo e Torregrossa.  
+
+•  25 gennaio 2012. Sentenza della Corte d’appello di Milano70. 
+
+•  28 novembre 2013. Sentenza Suprema Corte di Cassazione71. 
+
+2011/2018 Processi per l’omicidio di Mauro Rostagno ritornano su rapporti fra Licio Gelli e la mafia 
+
+trapanese.  
+
+•  15 maggio 2014. La sentenza n. 2/2014 della Corte d’assise di Trapani, depositata il 27 luglio 
+
+2015. 
+
+•  19 febbraio 2018. La sentenza n. 2/2018 della Corte d’assise d’appello di Palermo, depositata 
+
+il 18 marzo 2018. 
+
+INCHIESTE RECENTI SU MASSONERIA/MAFIE  
+
+•  1992. Avvio dell’inchiesta del Procuratore Agostino Cordova della Procura della Repubblica 
+
+di  Palmi  sulla  massoneria.  Fascicolo  trasferito  a  Roma  nell’autunno  1993  e  archiviata  dal 
+
+Giudice per le indagini preliminari Augusta Iannini il 3 luglio 2000 su richiesta dei pubblici 
+
+ministeri Lina Cusano e Nello Rossi72.  
+
+•  4  marzo  1994.  Informativa  della  Direzione  Investigativa  Antimafia  al  Capo  Reparto 
+
+Investigazioni Giudiziarie Pippo Micalizio sulle strategie di Cosa nostra, camorra e massoneria 
+
+successive alle inchieste «manipulite», si rimanda a un articolo contenente un estratto. 
+
+•  2002. Informativa della DIA alla Procura della Repubblica di Firenze sulle strategie mafiose e 
+
+massoniche successive a «manipulite» per cui si rimanda a un articolo de «La Stampa». 
+
+68 In AF, Sandro Provvisionato, serie Mafia. 
+69 In AF, Sandro Provvisionato, serie Mafia. 
+70 Documentazione conservata in copia presso AF, Archivio digitale, Fondo Nunziata. 
+71 Documentazione conservata in copia presso AF, Archivio digitale, Fondo Nunziata. 
+72  Le  vicende  relative  all’inchiesta  del  giudice  Cordova  sono  descritte  in  Pinotti  2007,  da  p.  61.  A  seguito 
+dell’archiviazione la documentazione non è accessibile. 
+
+33 
+
+ 
+ 
+                                                
+•  5 aprile/8 giugno 2004. Requisitoria dei pubblici ministeri Ingroia e Gozzo nel procedimento 
+
+n. 4578/96 N.r. contro Cinà e Dell’Utri da cui emergono diversi elementi sul rapporto tra mafia 
+
+massoneria73. 
+
+•  2007.  Inchiesta  Why  not  della  Procura  della  Repubblica  presso  il  Tribunale  di  Catanzaro 
+
+condotta dal Pubblico ministero De Magistris74.  
+
+ALTRI RIFERIMENTI DALLA COMMISSIONE P2 
+
+Di seguito si riportano alcuni riferimenti rintracciabili nei volumi della Commissione P2 in merito 
+
+all’infiltrazione della loggia P2 nella Guardia di Finanza, nei servizi di sicurezza e informazione e 
+
+nell’Arma dei Carabinieri, in particolare nella divisione Pastrengo di Milano comandata dal generale 
+
+Giovanbattista Palumbo, iscritto alla loggia P2. Per un quadro più esaustivo si rimanda agli appunti 
+
+redatti dai consulenti della Commissione P275. 
+
+GUARDIA DI FINANZA 
+
+• 
+
+In  merito  allo  scandalo  del  traffico  di  petroli  e  delle  tangenti  della  Guardia  di  Finanza,  la 
+
+documentazione acquisita è stata pubblicata dalla Commissione P2 nel Volume VII Tomi VI - 
+
+VII76. 
+
+• 
+
+In merito traffico di armi documentazione acquisita dalla è stata pubblicata dalla Commissione 
+
+P2 nel Volume VII Tomi III - IV. 
+
+SERVIZI DI SICUREZZA E INFORMAZIONE 
+
+•  Le inchieste interne del Ministero della difesa sui generali Santovito, Musumeci, Grassini sono 
+
+state pubblicate dalla Commissione P2 nel Volume VII Tomo XXII pp. 209-406, quelle su e 
+
+Pelosi, D’Amato e Molinari nelle pp. 407-516. 
+
+•  Le audizioni di Santovito, Picchiotti, Henke, Palumbo, Grassini, Rosseti sono state pubblicate 
+
+dalla Commissione P2 nel Volume XIII Tomo II (libro 18). 
+
+73 Pubblicata in Gomez, Travaglio 2005. 
+74 Si veda Pinotti 2007, p. 453. A seguito dell’archiviazione la documentazione non è accessibile. 
+75 Documentazione relativa alle inchieste disciplinari interne sugli affiliati alla loggia P2 condotte dalle forze dell’ordine, 
+dai  ministeri  e  dagli  organi  di  sicurezza  e  informazione  si  rimanda  a  AF,  Sergio  Flamigni,  Sezione  III,  Serie  P2  e 
+massoneria, sotto-serie 4, Fascicoli personali e indagini amministrative su piduisti civili e militari. 
+76 Di seguito un breve riassunto del proseguimento della vicenda giudiziaria relativa al traffico di petroli, procedimento 
+n. 349/81 Mario Milani +altri 184 del Tribunale di Torino: 14 agosto 1985 è emessa la sentenza-ordinanza del Giudice 
+istruttore  Mario  Vaudano  di  rinvio a  giudizio;  30 aprile  1987 la  sentenza  di primo  grado  condanna  Raffaele  Giudice, 
+Donato Lo Prete, Formato, Gissi, Galassi, Milani, Musselli e Boatti, assolve Freato Sereno, Mantovani, Palmiotti Bruno, 
+Picchioni Rolando; Raffaele Giudice era stato condannato dal Tribunale di Torino il 23 dicembre 1982; 17 luglio 1989 la 
+sentenza d’appello riduce le pene a Lo Prete e Musselli, stralcia Giudice e Gissi. 
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+                                                
+ 
+ARMA DEI CARABINIERI 
+
+• 
+
+Il  verbale  della  deposizione  del  25  aprile  1981  del  tenente  colonello  Nicolò  Bozzo,  della 
+
+divisione  Pastrengo  di  Milano,  ai  giudici  istruttori  Turone  e  Colombo  sulla  natura  e  il 
+
+funzionamento  della  divisione  cc  di  Milano  e  sul  ruolo  del  comandante  Palumbo  è  stato 
+
+pubblicato dalla Commissione P2 nel Volume I Tomo IV (libro 25) da p.168; il verbale della 
+
+deposizione del 12 maggio 1981 del Generale Dalla Chiesa sempre ai giudici istruttori Turone 
+
+e Colombo nel medesimo volume da p. 139; il verbale dell’audizione del Generale Dalla Chiesa 
+
+del 23 febbraio 1982 nel medesimo volume a p. 247. 
+
+ATTI DELLE COMMISSIONI PARLAMENTARI ANTIMAFIA 
+
+VI legislatura 
+
+•  Relazione  conclusiva  –  relatore  Senatore  Carraro  –  e  relazione  su  mafia  e  gangsterismo 
+
+americano – relatore Senatore Zuccalà – presentate il 6 febbraio 1976. Non ci sono riferimenti 
+
+espliciti  alla  loggia  P2  ma  fornisce  un  quadro  molto  dettagliato  della  storia  mafiosa  dal 
+
+dopoguerra ai primi anni settanta. 
+
+X legislatura 
+
+•  Relazione  sulle  risultanze  dell'attività  del  gruppo  di  lavoro  della  Commissione  incaricato  di 
+
+svolgere  accertamenti  sullo  stato  della  lotta  alla  criminalità  organizzata  nella  provincia  di 
+
+Trapani – relatore Senatore Chiaromonte – presentata il 30 gennaio 1990. 
+
+•  Relazione sulle risultanze dell'attività del gruppo di lavoro incaricato di svolgere accertamenti 
+
+sullo stato della lotta alla mafia nella provincia di Trapani – relatore Senatore Chiaromonte – 
+
+presentata il 15 novembre 1991. 
+
+•  Relazione  aggiuntiva  contenente  ulteriori  dati  e  considerazioni  in  ordine  alle  risultanze 
+
+dell'attività di un gruppo di lavoro della Commissione incaricato di svolgere accertamenti sullo 
+
+stato della lotta alla mafia nella provincia di Trapani – relatore Onorevole Lo Porto – presentata 
+
+il 9 gennaio 1992. 
+
+XI legislatura 
+
+•  Nota integrativa alla Relazione sui rapporti tra mafia e politica – relatore Onorevole Violante – 
+
+unitamente alle note integrative presentate, in data 6 maggio 1993, dall’Onorevole Galasso e 
+
+dal Senatore Brutti, presentata il 28 maggio 1993. Si segnala l’approfondimento sui rapporti tra 
+
+mafia e massoneria pp. 98-99. 
+
+•  Elaborato statistico sugli iscritti alla massoneria nella relazione conclusiva – relatore Onorevole 
+
+Violante – presentata il 12 aprile 1994, pp. 115-212. 
+
+35 
+
+ 
+ 
+ 
+•  Resoconto della seduta del 4 dicembre 1992 da p. 1830 per i brani su Mandalari e la loggia 
+
+Scontrino di Trapani77.  
+
+XVI legislatura 
+
+•  Allegato alla relazione sulla prima fase dei lavori della Commissione con particolare riguardo 
+
+al condizionamento delle mafie sull’economia, sulla società e sulle istituzioni del Sud-Italia. 
+
+XVII legislatura 
+
+•  Relazione sulle infiltrazioni di Cosa nostra e della ‘Ndrangheta nella massoneria in Sicilia e 
+
+Calabria, dicembre 2017. 
+
+ALTRE FONTI 
+
+Commissione  parlamentare  d'inchiesta  sul  terrorismo  in  Italia  e  sulle  cause  della  mancata 
+
+individuazione dei responsabili delle stragi 
+
+•  Scheda  informativa  sulle  stragi  elaborata  dalla  Commissione,  documentazione  relativa  alla 
+
+loggia P2 dal 1970 al 1996 nella banca dati dell’Archivio del Senato della Repubblica. 
+
+Centro di documentazione «Cultura della Legalità Democratica» della Regione Toscana 
+
+•  Fondo Sandra Bonsanti. 
+
+•  Fondo Rosario Minna - in corso di ordinamento. 
+
+•  Fondo Commissione Stragi con estratti sulla loggia P2 dei documenti della Commissione. 
+
+Archivio del Consiglio regionale della Toscana 
+
+•  Fondo Commissione speciale sul neofascismo e l’eversione. 
+
+Istituto storico toscano della Resistenza e dell’Età contemporanea. 
+
+•  Fondo Elio Gabbugiani78, serie Gelli-P2. 
+
+Archivio Dote dell’Istituto Cattaneo, conservato presso l’Istituto Parri a Bologna. 
+
+77 Cfr. Pinotti 2007, da p. 562. 
+78 Sindaco di Firenze, parlamentare del Pci, membro della Commissione P2 
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+Raccolta  di  Perizie  elaborate  da  consulenti  specialisti  su  incarico  di  diverse  procure  della 
+
+Repubblica sui temi della massoneria e dei legami con organizzazioni criminali e con l’eversione 
+
+neofascista79.  
+
+•  Procura  della  Repubblica  di  Brescia.  Giuseppe  De  Lutiis,  Piera  Amendola,  Gerardo  Padulo, 
+
+Posizione massonica di soggetti emersi nel corso dell’indagine relativa alla strage di piazza 
+
+della Loggia. 
+
+•  11 settembre 1995. Procura della Repubblica di Brescia. Giuseppe De Lutiis, Piera Amendola, 
+
+Gerardo Padulo, Rapporti tra l’on. Giulio Andreotti e Licio Gelli, procedimento penale 6459/93 
+
+P.m. PA. 
+
+•  20 novembre 1995. Procura della Repubblica di Brescia. Giuseppe De Lutiis, Piera Amendola, 
+
+Gerardo  Padulo,  Rapporti  tra  Giuseppe  Mandalari  e  le  organizzazioni  massoniche, 
+
+procedimento penale 6459/93 P.m. PA. 
+
+•  23  dicembre  1996.  Piera  Amendola,  Documentazione  massonica  sequestrata  a  Igino  Di 
+
+Mambro,  Giancarlo  Simonetti  ed  Alvaro  Robelo,  Procura  della  Repubblica  di  Aosta,  parte 
+
+dell’inchiesta «Phoney Money», procedimento penale n. 263/95 P.m. Aosta. 
+
+•  12 marzo 1997. Aldo Giannuli, Relazione Lega Anticomunista Mondiale, Nuclei di Difesa dello 
+
+Stato,  Aginter  Presse,  Ordine  Nuovo,  Fronte  Nazionale,  giudice  istruttore  del  Tribunale  di 
+
+Milano, procedimento penale n. 2/92 F. 
+
+•  16  ottobre  1997.  Procura  della  Repubblica  di  Napoli.  Giuseppe  De  Lutiis,  Piera  Amendola, 
+
+Gerardo  Padulo,  Rapporti  tra  Camorra,  Massoneria  ed  Ordini  Cavallereschi  deviati, 
+
+procedimento penale n. 14497/1/96-44 D.d.a. NA80. 
+
+•  1°  giugno  1998.  Aldo  Giannuli,  Pre-relazione  s.n.  Dario-Noto  Servizio,  Procura  della 
+
+Repubblica di Brescia, procedimento penale 91/97-21 P.m. BS. 
+
+•  12 febbraio 1999. Piera Amendola, Appunto sulla documentazione massonica sequestrata ad 
+
+Antonio Profazio, Procura della Repubblica di Brescia, filone di indagini sul generale Francesco 
+
+Delfino dell’indagine su piazza della Loggia, procedimento penale n. 91/97-21 P.m. BS. 
+
+•  30 luglio 1999. Giuseppe De Lutiis, Piera Amendola, Gerardo Padulo, Rapporti tra massoneria 
+
+deviata,  eversione  di  destra,  golpismo  e  stragismo  negli  anni  70  (premesse),  Procura  della 
+
+Repubblica di Brescia, procedimento penale 91/97-21 P.m. BS. 
+
+79 In AF, Archivio digitale. Per un approfondimento del lavoro di consulente di Giuseppe De Lutiis si rimanda all’apposita 
+serie nel fondo archivistico a lui relativo conservato presso l’Archivio Flamigni. 
+80 Procedimento partito dalle dichiarazioni del pentito Galasso sulla corruzione di alcuni magistrati e sui rapporti con la 
+massoneria, in particolare sul gruppo massonico di via Prati della Farnesina. 
+
+37 
+
+ 
+                                                
+•  19 maggio 1999. Giuseppe De Lutiis, Piera Amendola, Gerardo Padulo, Appunto sulle agende 
+
+sequestrate presso le abitazioni delle figlie di J- Vesselinoff - Profilo massonico del Vesselinoff, 
+
+Procura della Repubblica di Brescia, procedimento penale n. 91/97-21 P.m. BS. 
+
+•  27  luglio  1999.  Aldo  Giannuli,  Relazione  n.  13 S.I.D.,  Procura  della  Repubblica  di  Brescia, 
+
+procedimento penale 91/97-21 P.m. BS. 
+
+•  19  febbraio  2000.  Aldo  Giannuli,  Archivio  AMGOT,  Procura  della  Repubblica  di  Brescia, 
+
+procedimento penale n. 91/97-21 P.m. BS. 
+
+•  31 ottobre 2000. Aldo Giannuli, Sunto delle principali risultanze in merito al “Noto servizio”, 
+
+Procura della Repubblica di Brescia, procedimento penale n. 91/97-21 P.m. BS 
+
+•  21  dicembre  2000.  Piera  Amendola,  Fascicolo  massonico  di  Zotto  Maurizio,  Procura  della 
+
+Repubblica di Brescia, procedimento penale 91/97-21 P.m. BS 
+
+•  5  febbraio  2001.  Piera  Amendola,  Documentazione  Coltro  L.,  Vitali  A.,  Savona  L.,  Evloghy 
+
+K.H., Procura della Repubblica di Brescia, procedimento penale 91/97-21 P.m. BS 
+
+•  1° giugno 2001. Aldo Giannuli, Relazione n. 27 Sindona, Procura della Repubblica di Brescia, 
+
+procedimento penale n. 91/97-21 P.m. BS. 
+
+•  20 maggio 2001. Aldo Giannuli, Relazione n. 23 SIM-Calderini, Procura della Repubblica di 
+
+Brescia, procedimento penale n. 91/97-21 P.m. BS. 
+
+•  23 maggio 2001. Gianni Cipriani, Relazione sui documenti concernenti l’Italia rinvenuti negli 
+
+archivi Usa parti I e II, Commissione stragi, procedimento penale 91/97-21 P.m. BS. 
+
+•  6  gennaio  2002.  Aldo  Giannuli  su  Jordan  Vesselinoff,  Procura  della  Repubblica  di  Brescia, 
+
+procedimento penale 91/97-21 P.m. BS. 
+
+•  4  aprile  2002.  Aldo  Giannuli.  Relazione  n.  15  Rosa  dei  Venti,  Procura  della  Repubblica  di 
+
+Brescia, procedimento penale n. 91/97-21 P.m. BS. 
+
+•  10  dicembre  2002.  Aldo  Giannuli,  Relazione  n.  31  Alfieri-Noto  Servizio,  Procura  della 
+
+Repubblica di Brescia, procedimento penale n. 91/97-21 P.m. BS. 
+
+•  29 gennaio 2003. Aldo Giannuli, Relazione n. 47 Carte Labruna, Procura della Repubblica di 
+
+Brescia, Procura della Repubblica di Brescia, procedimento penale 91/97-21 P.m. BS. 
+
+•  10  settembre  2004.  Aldo  Giannuli,  Relazione  n.  50  Borghese,  Procura  della  Repubblica  di 
+
+Brescia, Procura della Repubblica di Brescia, procedimento penale 91/97-21 P.m. BS. 
+
+•  1°  febbraio  2006.  Aldo  Giannuli,  Relazione  n.  48  Pecorelli,  Procura  della  Repubblica  di 
+
+Brescia, procedimento penale 91/97-21 P.m. BS. 
+
+•  1° luglio 2006. Aldo Giannuli, Relazione n. 48 bis seguito Pecorelli, Procura della Repubblica 
+
+di Brescia, procedimento penale 91/97-21 P.m. BS. 
+
+38 
+
+ 
+•  13 novembre 2013. Piera Amendola, Posizione massonica di Zotto M. e documentazione Coltro 
+
+L.,  Vitali  A.,  Savona  L.,  Evloghy  K.H.,  Procura  della  Repubblica  di  Brescia,  procedimento 
+
+penale 91/97-21 P.m. BS. 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DESCRIZIONE PER SOGGETTO CONSERVATORE 
+
+Archivio di Stato di Roma 
+
+•  «Processo romano alla P2» 1981/1983 - 1984/1996. Procedimento n. 59/94 - n. 1575/81 G.i. - 
+
+n. 7888/81 P.m. contro Licio Gelli +21 imputati di cospirazione politica mediante associazione 
+
+ed altro. Nell’ambito di questo processo sono state acquisite ordinanze di rinvio a giudizio e 
+
+sentenze  dibattimentali  (serie  Istruttoria,  sotto-serie  Volume  XXI)  del  processo  per  il  Golpe 
+
+Borghese, del primo processo per la strage dell’Italicus, del primo processo per la strage di via 
+
+Fani e il rapimento di Aldo Moro, del processo a Michele Sindona, e sono stati acquisiti atti da 
+
+diversi procedimenti (serie Istruttoria, sotto-serie Volume XVII e Volume XVIII). In corso di 
+
+ordinamento e digitalizzazione. 
+
+•  «Processo  fiorentino»  1987/1991.  Procedimento  n.  302/84  A  G.i.  contro  Affatigato  Marco 
+
++altri, atti acquisiti fra quelli del processo romano. 
+
+•  Processi  svizzeri  1983/1987.  I  Corte  di  diritto  pubblico  del  Tribunale  federale  svizzero  di 
+
+Losanna, atti acquisiti fra quelli del processo romano. 
+
+Archivio  di  Stato  di  Bologna  -  Fondo  Tribunale  di  Bologna,  Corte  d’assise,  serie  Fascicoli 
+
+processuali relativi a episodi di strage ed eversione. 
+
+•  «Primo  processo  Italicus»  1980/1992.  Procedimenti  n.  6/80  Tuti  Mario  +altri,  n.  1/82  Sgrò 
+
+Francesco +altri e n. 4/82 Bittoni Luigi +altri, Corte d’assise di Bologna.  
+
+•  «Processo  Italicus  bis»  1994/2000.  Procedimenti  penali  n.1251/A/82  R.g.p.m.,  1329/A/84 
+
+R.g.g.i., 1/96 R.g., n. 18/2001 R.g. a carico di Bongiovanni Ivano +3, Corte d’assise di appello 
+
+di Bologna. 
+
+•  «Primo  processo  per  la  strage  alla  stazione  di  Bologna»  1987/1992. Procedimento  penale  n. 
+
+32/89 R.g.a. e procedimento penale n. 16/86 R.g.c.a. (Ballan +altri) che riunisce i procedimenti 
+
+penali n. 13/86R R.g.c.a. e n. 2/87 R.g.c.a. (Musumeci +3). 
+
+•  «Secondo processo d’appello per la strage alla stazione di Bologna» 1993/1995. Procedimento 
+
+penale n. 12/86 (Ballan Marco +altri) e 2/87C R.g. (Musumeci +3). 
+
+•  «Primo  processo  per  l’omicidio  di  Mario  Amato»  1984/1989.  Procedimento  n.  8/83  contro 
+
+Cavallini Gilberto +11, n. 7/88 R.g contro Signorelli della Corte d’assise di Bologna. 
+
+•  «Secondo processo per l’omicidio di Mario Amato» 1990. Procedimento n. 18/89 R.g. contro 
+
+Paolo Signorelli Corte d’assise d’appello di Firenze. 
+
+40 
+
+ 
+ 
+ 
+ 
+ 
+Archivio di Stato di Milano 
+
+•  «Processi  a  Michele  Sindona  per  la  vicenda  Zitropo  e  l’omicidio  di  Giorgio  Ambrosoli» 
+
+1984/1990. Procedimenti n. 982/81F e n. 595/80F del Tribunale di Milano. 
+
+•  «Fallimento Banco Ambrosiano» 1981/1998. Procedimenti n. 2463/89 R.g. n. 2565/94. 
+
+•  «Processo sul Conto Protezione» 1994/1999. Procedimento n. 2056/94 R.g. contro Larini +altri.  
+
+•  «Primo processo per il ferimento di Roberto Rosone» 1987/1996. Procedimento n. 2/88 R.g. 
+
+Diotallevi +altri della Corte d’Assise di Milano. 
+
+•  «Secondo processo per il ferimento di Roberto Rosone» 1998/1999.  
+
+Archivio di Stato di Perugia 
+
+•  «Omicidio  di  Carmine  Pecorelli»  1991/2003.  Procedimento  n.  2826/89  A  del  Tribunale  di 
+
+Roma e n. 4/95 R.g., 5/95 R.g., 3/2001 R.g. del Tribunale di Perugia. 
+
+Tribunale di Roma - Corte d’assise 
+
+•  «Primo  processo  per  il  depistaggio  sulla  strage  alla  stazione  di  Bologna»  1985/1987. 
+
+Procedimento n. 17/85 presso la V Sezione della Corte d’assise di Roma. 
+
+•  «Processo per la ricettazione dei documenti di Roberto Calvi» 1991/2005. 
+
+•  «Processo per l’omicidio di Roberto Calvi» 1997/2011. Procedimento n. 7557/96 R.g. Gip, n. 
+
+13034/95 R.g.p.m., n. 21/05 e 32/08 R.g. presso la Corte d’assise di Roma. 
+
+•  «Processo  Golpe  Borghese  -  Rosa  dei  Venti  -  Golpe  Bianco».  Procedimenti  n.  49/75,  n. 
+
+17626/95 R.g., procedimento n. 17626/95 R.g.r. della Corte d’assise di Roma. 
+
+Tribunale di Bologna - Corte d’assise 
+
+•  «Secondo  processo  per  il  depistaggio  sulla  strage  alla  stazione  di  Bologna»  2001/2003. 
+
+Procedimento n. 18/2001 R.g., n. 1251/a/82 R.g.p.m. Corte d’assise di Bologna. 
+
+•  «Processo a Luigi Ciavardini per la strage alla stazione di Bologna». Procedimento penale n. 
+
+335789 R.n.r. e n. 64/92 R.g. Tribunale per i minorenni di Bologna. 
+
+•  «Processo a Gilberto Cavallini per la strage alla stazione di Bologna» 2017/2020. Procedimento 
+
+n. 19072/14 R.g.n.r. e n. 1/18 R.g. presso la Corte d’assise di Bologna. 
+
+•  «Secondo processo per l’omicidio di Vittorio Occorsio» 1990/1994. Procedimento n. 4/89 R.g. 
+
+e n. 16/91 R.g. Corte d’assise di Bologna. 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tribunale di Milano 
+
+•  «Processo  Conto  Protezione»  1994/1999.  Procedimento  n.  2056/94  R.g.  del  Tribunale  di 
+
+Milano contro Larini +altri.  
+
+•  «Processo per la bancarotta del Gruppo Rizzoli» 1993/2009. 
+
+Tribunale di Firenze - Corte d’assise 
+
+•  «Processo  fiorentino»  1987/1991.  Procedimento  n.  302/84  A  G.i.  contro  Affatigato  Marco 
+
++altri. 
+
+•  «Primo processo per l’omicidio di Vittorio Occorsio» 1978/1989. Procedimento n. 10/77 R.g., 
+
+n. 14/78 R.g., n. 20/85 R.g., n. 6/87 R.g. e n. 4525/88 R.g. della Corte d’assise di Firenze. 
+
+Tribunale di Palermo - Corte d’assise 
+
+•  «Processo per i delitti politici di Reina, Mattarella e La Torre». Procedimento n. 8/91 R.g.c.a. 
+
+contro Greco Michele +12 e n. 21/96 contro Greco +10 della Corte d’assise di Palermo. 
+
+•  «Processo Andreotti - Cosa Nostra». Procedimenti n. 3538/94 R.g., n. 505/95 R.g.t. e n. 3/2001 
+
+R.g. del Tribunale di Palermo 
+
+Archivio Flamigni - Roma 
+
+Documentazione consultabile in sede previo appuntamento. 
+
+•  Fondo Sergio Flamigni, III Sezione, Serie P2 e massoneria. 
+
+•  Fondo Piera Amendola. 
+
+•  Fondo Giuseppe De Lutiis. 
+
+•  Fondo Sandro Provvisionato - in corso di ordinamento. 
+
+•  Volumi pubblicati della Commissione Parlamentare d’inchiesta sulla loggia massonica P2. 
+
+•  Perizie elaborate da consulenti specialisti su incarico di diverse procure della Repubblica sui 
+
+temi della massoneria e dei legami con organizzazioni criminali e con l’eversione neofascista. 
+
+•  Appunti dei consulenti della Commissione parlamentare d’inchiesta sulla loggia massonica P2 
+
+non pubblicati tra gli atti della Commissione. In Fondo Sergio Flamigni, sezione III, serie P2 e 
+
+massoneria e in Fondo Piera Amendola. 
+
+•  Sentenze e atti giudiziari:  
+
+-  «Processo  romano  alla  P2»  1981/1983  -  1984/1996.  Procedimento  n.  59/94  -  n. 
+
+1575/81 G.i. - n. 7888/81 P.m. contro Licio Gelli +21. Sentenza della seconda Corte 
+
+d’assise I grado del 16 aprile 1994. 
+
+42 
+
+ 
+ 
+ 
+ 
+-  Richiesta  di  archiviazione  dei  pubblici  ministeri  della  Procura  della  Repubblica  di 
+
+Roma Cusano e Rossi nel procedimento n. 10807/94 per associazione segreta contro 
+
+De Magni Augusto +60 del 29 dicembre 1997. In Archivio digitale, Serie Processo De 
+
+Magni e altri per associazione segreta. 
+
+-  «Primo processo Italicus» 1980/1992. Procedimenti n. 6/80 Tuti Mario +altri, n. 1/82 
+
+Sgrò  Francesco  +altri  e  n.  4/82  Bittoni  Luigi  +altri,  Corte  d’assise  di  Bologna. 
+
+Sentenza ordinanza del Giudice istruttore Angelo Vella 31 luglio 1980; sentenza n. 
+
+7/83 della Corte d’assise di Bologna del 20 luglio 1983; sentenza n. 51/86 della Corte 
+
+d’assise d’appello di Bologna del 18 dicembre 1986; sentenza n. 523 della V Sezione 
+
+Suprema  Corte  di  Cassazione  del  24  marzo  1992.  In  Archivio  digitale,  Fondo 
+
+Nunziata. 
+
+-  «Processo  Italicus  bis»  1994/2000.  Procedimenti  penali  n.1251/A/82  R.g.p.m., 
+
+1329/A/84 R.g.g.i., 1/96 R.g., n. 18/2001 R.g. a carico di Bongiovanni Ivano +3, Corte 
+
+d’assise di appello di Bologna. Sentenza ordinanza di rinvio a giudizio del 3 agosto 
+
+1994 e sentenza n.1 della Corte d’assise di appello di Bologna del 9 giugno 2000.  
+
+-  «Primo  processo  per  la  strage  alla  stazione  di  Bologna»  1987/1992.  Procedimento 
+
+penale n. 16/86 R.g.c.a. che riunisce i procedimenti penali n. 13/86R R.g.c.a. e n. 2/87 
+
+R.g.c.a. presso la II sezione della Corte d’assise di Bologna. Sentenza n.4/88 dell’11 
+
+luglio 1988, n. 18/90 del 18 luglio 1990 della Corte d’assise d’appello, motivazioni 
+
+dell’Avvocatura  dello  Stato  e  del  ricorso  in  Cassazione  del  25-27  maggio  1991, 
+
+sentenza n. 1/92 del 12 febbraio 1992 della Suprema Corte di Cassazione. 
+
+-  «Secondo processo per la strage alla stazione di Bologna» 1993/1995. Procedimento 
+
+penale n. 12/86 Ballan Marco +altri e 2/87C R.g. Musumeci +3 presso la I sezione 
+
+della Corte d’assise di appello di Bologna. Sentenza n. 13/94 del 16 maggio 1994, n. 
+
+21795 del 23 novembre 1995 della Suprema Corte di Cassazione. 
+
+-  «Primo processo per il depistaggio sulla strage alla stazione di Bologna» 1985/1987. 
+
+Sentenza n. 45/85 della V Sezione Corte d’assise di Roma. 
+
+-  «Secondo  processo  per  il  depistaggio  sulla  strage  alla  stazione  di  Bologna» 
+
+2001/2003. Procedimento n. 18/2001 R.g., n. 1251/a/82 R.g.p.m. presso la II sezione 
+
+della Corte d’assise di Bologna. Sentenza n. 34/2001 del 21 dicembre 2001, sentenza 
+
+n. n.102/2003 della Suprema Corte di Cassazione. 
+
+-  «Processo  a  Luigi  Ciavardini  del  Tribunale  dei  minori»  2000/2007.  Procedimento 
+
+penale n. 335789 R.n.r. e n. 64/92 R.g. Tribunale per i minorenni di Bologna. Sentenza 
+
+n. 3/2000 e n. 5/02 della Corte d’appello, sentenza 1690/03 della Suprema Corte di 
+
+43 
+
+ 
+Cassazione,  sentenza  n.  52/04  della  Corte  d’appello  per  i  minorenni  di  Bologna, 
+
+sentenza n. 18244/07 della Suprema Corte di Cassazione. 
+
+-  «Omicidio  di  Carmine  Pecorelli»  1991/2003.  Procedimento  n.  2826/89  A  del 
+
+Tribunale  di  Roma  e  n.  4/95  R.g.,  5/95  R.g.,  3/2001  R.g.  del  Tribunale  di  Perugia. 
+
+Sentenza n. 3/1999 della Corte d’assise di Perugia del 24 settembre 1999; sentenza n. 
+
+4/2002 del 17 novembre 2002; sentenza n. 20/2003 della Suprema Corte di Cassazione 
+
+del 30 ottobre 2003. In Archivio digitale, Serie Omicidio di Carmine Pecorelli. 
+
+-  «Processi  a  Michele  Sindona  per  la  vicenda  Zitropo  e  l’omicidio  Ambrosoli». 
+
+Procedimenti  n.  982/81-F,  n.  595/80-F,  n.  51/84  R.g.  e  n.  21/85  R.g.  Sentenza-
+
+Ordinanza  del  giudice  istruttore  di  Milano  contro  Sindona+25  del  17  luglio  1984; 
+
+sentenza n. 20/86 della prima Corte d’assise di Milano del 18 marzo 1986; sentenza 
+
+della  Corte  di  assise  d’appello  di  Milano  contro  Guzzi  +altri  del  5  marzo  1987; 
+
+sentenza  n.  4511  della  I  sezione  penale  della  Suprema  Corte  di  Cassazione  contro 
+
+Guzzi +22 del 25 febbraio 1988; sentenza della III sezione della Corte d’appello di 
+
+Milano  contro  Bordoni  Carlo  +altri  del  28  marzo  1988.  In  Archivio  digitale,  serie 
+
+Omicidio di Giorgio Ambrosoli. 
+
+-  «Azione dei giudici Alibrandi e Infelisi contro Baffi Sarcinelli» 1979/1981. Sentenza- 
+
+ordinanza del Giudice Istruttore Alibrandi del 24 marzo 1979, sentenza della Corte 
+
+d’appello di Roma del 10 novembre 1979, sentenza del giudice istruttore Alibrandi 
+
+dell’11 giugno 1981. In Archivio digitale, Serie processo contro Infelisi e Alibrandi 
+
+nella vicenda Baffi-Sarcinelli. 
+
+-  «Fallimento  Banco  Ambrosiano»  1981/1998.  Procedimenti  n.  2463/89  R.g.  n. 
+
+2565/94.  Sentenza  del  Tribunale  di  Milano  del  25  agosto  1982,  sentenza  di 
+
+proscioglimento  per  Gelli  +altri  del  18  novembre  1991,  sentenza  n.  1390/92  della 
+
+Corte di assise di Milano del 16 aprile 1992, sentenza n. 2325 della II sezione penale 
+
+della Corte di appello di Milano del 10 giugno 1996, sentenza n. 8327 della V sezione 
+
+penale della Suprema Corte di Cassazione contro Bagnasco +altri del 22 aprile 1998. 
+
+In Archivio digitale. 
+
+-  «Provvedimenti del Csm contro Alibrandi per la vicenda Mario Amato». Richiesta di 
+
+chiarimenti del Presidente del CSM del 5 dicembre 1977, Azioni disciplinari contro 
+
+Alibrandi  di  procuratori  diversi  fra  il  1978  e  il  1981,  sentenze  della  Sezione 
+
+disciplinare del CSM del 28 settembre 1982 e del 4 maggio 1984. In Archivio digitale, 
+
+Serie Mario Amato, documenti.  
+
+-  «Processo  per  il  ferimento  di  Roberto  Rosone»  1987/1996.  Sentenza-ordinanza  di 
+
+rinvio a giudizio del 25 giugno 1987, procedimento n. 2/88 R.g.; sentenza della Corte 
+
+44 
+
+ 
+di assise di Milano del 14 gennaio 1994; sentenza della Corte di assise d’appello di 
+
+Milano  del  17  gennaio  1996;  sentenza  della  Suprema  Corte  di  Cassazione  del  25 
+
+novembre 1996. In Archivio digitale. 
+
+-  «Indagini di Vittorio Occorsio e primo processo contro Ordine Nuovo». Procedimento 
+
+n. 4059/71 A R.g.p.m. Sentenza n. 5863/73 del Tribunale di Roma del 21 novembre 
+
+1973; sentenza n. 2088/78 della Corte d’appello di Roma del 28 dicembre 1978. In 
+
+Archivio digitale, fondo Nunziata. 
+
+-  «Processo  per  l’omicidio  di  Mario  Amato».  Procedimenti  n.  8/83  contro  Cavallini 
+
+Gilberto +11, n. 7/88 R.g contro Signorelli della Corte d’assise di Bologna. Sentenza 
+
+n.  9/84  del  5  aprile  1984  della  Corte  d’assise  di  Bologna;  sentenza  n.  3/86  del  6 
+
+febbraio 1986 della Corte d’assise d’appello; sentenza n. 2846 della Suprema Corte di 
+
+Cassazione del 16 dicembre 1987; sentenza n. 35/88 della Corte d’assise d’appello di 
+
+Bologna del 2 luglio 1988; sentenza n. 2/90 della Corte d’assise d’appello di Firenze 
+
+del 15 gennaio 1990. In Archivio digitale, serie Atti processuali per omicidio di Mario 
+
+Amato. 
+
+-  «Memoriali di Francesco Pazienza» 1982/1986. Alla Procura di Perugia nel 1982. Alla 
+
+Procura  di  Roma  il  25  febbraio  e  nel  luglio  1982  nell’ambito  del  processo  P2,  al 
+
+giudice Misiani il 24 ottobre 1984, ai giudici istruttori Zincani e Castaldo del Tribunale 
+
+di Bologna il 14 giugno 1986 nell’ambito del procedimento penale n. 344/80 G.i. In 
+
+Archivio digitale, Fondo Nunziata. 
+
+-  «Inchiesta sui Nuclei di difesa dello Stato». Procedimento penale n. 9/92A R.g.p.m. e 
+
+n.  2/92F  R.g.g.i.  nei  confronti  di  Rognoni  Giancarlo  +32,  sentenza  ordinanza  del 
+
+giudice  Salvini  del  3  febbraio  1998.  In  Archivio  digitale,  Fondo  Processo  Ordine 
+
+Nuovo - gruppo La Fenice. 
+
+-  «Processo al Golpe Borghese». Procedimenti n. 49/75 e n. 17626/95 R.g. della Corte 
+
+d’assise  di  Roma.  Sentenza  ordinanza  n.  3361/71A  R.g.p.m.;  sentenza  n.  1054/71 
+
+R.g.g.i. del 5 novembre 1975; sentenza n. 29/78 della Corte d’assise di Roma del 14 
+
+luglio 1978; sentenza della Corte d’assise d’appello di Roma del 27 novembre 1984; 
+
+Ordinanza  della  Suprema  Corte  di  Cassazione  del  23  ottobre  1985;  richiesta  di 
+
+archiviazione del 10 luglio 1997. In Archivio digitale, serie Golpe Borghese. 
+
+-  «Processo per i delitti politici di Reina, Mattarella e La Torre». Procedimento n. 8/91 
+
+R.g.c.a. contro Greco Michele +12 e n. 21/96 contro Greco +10 della Corte d’assise 
+
+di Palermo. Sentenze In Archivio digitale, serie Omicidi di mafia, sotto-serie Reina, 
+
+Mattarella, La Torre. 
+
+45 
+
+ 
+-  Loris D’Ambrosio, Relazione sull’omicidio dell’on. Mattarella dell’8 settembre 1989. 
+
+In Archivio digitale, serie versamento Biscione luglio 2018, nel fondo Nunziata sono 
+
+conservati 34 allegati alla relazione. 
+
+-  «Processo Andreotti - Cosa Nostra». Procedimenti n. 3538/94 R.g., n. 505/95 R.g.t. e 
+
+n.  3/2001  R.g.  del  Tribunale  di  Palermo.  Motivazioni  della  sentenza  della  Corte 
+
+d’appello di Palermo del 2 maggio 2003. In Archivio digitale. 
+
+-  «Processo alla loggia coperta Iside del Centro Scontrino di Trapani». Requisitoria del 
+
+Pubblico Ministero del 27 novembre 1989 e Sentenza-ordinanza del Giudice istruttore 
+
+Stefano  Orsi  del  19  ottobre  1990  in  Fondo  Sandro  Provvisionato,  serie  Mafia. 
+
+Sentenze della Corte d’appello di Milano del 25 gennaio 2012 e della Suprema Corte 
+
+di cassazione del 28 novembre 2013. In Archivio digitale, Fondo Nunziata. 
+
+Centro di documentazione «Cultura della Legalità Democratica» della Regione Toscana 
+
+•  Fondo Sandra Bonsanti. 
+
+•  Fondo Rosario Minna - in corso di ordinamento. 
+
+•  Fondo Commissione Stragi con estratti sulla loggia P2 dei documenti della Commissione. 
+
+•  Raccolta di sentenze conservate presso la biblioteca del Centro: 
+
+-  «Processo  romano  alla  P2»  1981/1983  -  1984/1996.  Procedimento  n.  59/94  -  n. 
+
+1575/81 G.i. - n. 7888/81 P.m. contro Licio Gelli +21. Sentenza della seconda Corte 
+
+d’assise I grado del 16 aprile 1994. 
+
+-  Procedimento n. 302/84 A G.i. contro Affatigato Marco +altri. Sentenze n. 6/87 della 
+
+Corte d’assise di Firenze del 15 dicembre 1987; procedimento n. 5/89 sentenza n. 3N 
+
+della Corte d’assise d’appello del 2 dicembre 1989. 
+
+-  Sentenze della I Corte di diritto pubblico del Tribunale federale svizzero di Losanna 
+
+del 19 agosto 1983, 21 maggio 1984 e 2 luglio 1986. 
+
+-  «Primo processo Italicus» 1980/1992. Procedimenti n. 6/80 Tuti Mario +altri, n. 1/82 
+
+Sgrò  Francesco  +altri  e  n.  4/82  Bittoni  Luigi  +altri,  Corte  d’assise  di  Bologna. 
+
+Sentenza ordinanza del Giudice istruttore Angelo Vella 31 luglio 1980; Sentenza della 
+
+Corte d’assise di Bologna del 20 luglio 1983; sentenza della Corte d’assise d’appello 
+
+di Bologna del 18 dicembre 1986; sentenza della Suprema Corte di Cassazione del 6 
+
+dicembre 1987; Decisione della Suprema Corte di Cassazione del 24 marzo 1992. 
+
+-  «Primo  processo  per  la  strage  alla  stazione  di  Bologna»  1987/1992.  Procedimenti 
+
+penali n. 16/86 R.g.c.a., che riunisce i procedimenti penali n. 13/86R R.g.c.a. e n. 2/87 
+
+R.g.c.a., e n. 32/89 R.g.a., sentenza della Corte d’assise d’appello del 18 luglio 1990. 
+
+46 
+
+ 
+ 
+-  «Secondo processo per la strage alla stazione di Bologna» 1993/1995. Procedimento 
+
+penale  n.  12/86  Ballan  Marco  +altri  e  2/87C  R.g.  Musumeci  +3,  sentenza  n.  21/95 
+
+della Suprema Corte di Cassazione del 23 novembre 1995. 
+
+-  «Primo processo per il depistaggio sulla strage alla stazione di Bologna» 1985/1987. 
+
+Sentenza n. 45/85 della V Sezione Corte d’assise di Roma del 29 luglio 1985. 
+
+-  «Omicidio  di  Carmine  Pecorelli»  1991/2003.  Procedimento  n.  2826/89  A  del 
+
+Tribunale  di  Roma  e  n.  4/95  R.g.,  5/95  R.g.,  3/2001  R.g.  del  Tribunale  di  Perugia. 
+
+Sentenze n. 3/1999 della Corte d’assise di Perugia del 24 settembre 1999, sentenza n. 
+
+4/2002 del 17 novembre 2002. 
+
+-  «Processi  a  Michele  Sindona  per  la  vicenda  Zitropo  e  l’omicidio  Ambrosoli». 
+
+Procedimenti  n.  982/81-F,  n.  595/80-F,  n.  51/84  R.g.  e  n.  21/85  R.g.  Sentenza-
+
+Ordinanza  del  giudice  istruttore  di  Milano  nel  procedimento  n.  531/80F  contro 
+
+Sindona+25 del 17 luglio 1984, sentenza n. 20/86 della prima Corte d’assise di Milano 
+
+del 18 marzo 1986. 
+
+-  «Primo  processo  per  l’omicidio  di  Vittorio  Occorsio»  1978/1989.  Procedimento  n. 
+
+10/77 R.g. e n. 14/78 R.g della Corte d’assise di Firenze. Sentenza n. 10/8 della Corte 
+
+d’assise di appello di Firenze del 12 marzo 1986. 
+
+-  «Inchiesta sui Nuclei di difesa dello Stato». Procedimento penale n. 9/92A R.g.p.m. e 
+
+n.  2/92F  R.g.g.i.  nei  confronti  di  Rognoni  Giancarlo  +32,  sentenza  ordinanza  del 
+
+giudice Salvini del 3 febbraio 1998. 
+
+-  «Processo al Golpe Borghese». Procedimenti n. 49/75 e n. 17626/95 R.g. della Corte 
+
+d’assise di Roma. Sentenza n. 29/78 della Corte d’assise di Roma del 14 luglio 1978. 
+
+-  «Processo Andreotti - Cosa Nostra». Procedimenti n. 3538/94 R.g., n. 505/95 R.g.t. e 
+
+n.  3/2001  R.g.  del  Tribunale  di  Palermo.  Sentenza  n.  49291/2004  della  II  sezione 
+
+penale della Suprema Corte di Cassazione del 15 ottobre 2004. 
+
+Archivio del Consiglio regionale della Toscana 
+
+•  Fondo Commissione speciale sul neofascismo e l’eversione. 
+
+Istituto storico toscano della Resistenza e dell’Età contemporanea. 
+
+•  Fondo Elio Gabbugiani81, serie Gelli-P2. 
+
+81 Sindaco di Firenze, parlamentare del Pci, membro della Commissione P2 
+
+47 
+
+ 
+ 
+ 
+                                                
+
