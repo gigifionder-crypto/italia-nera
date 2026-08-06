@@ -87,7 +87,8 @@ def categoria(dominio):
 
 def dominio_di(url):
     m = re.match(r'https?://([^/]+)/?', url)
-    return (m.group(1).lower() if m else url).lstrip('www.')
+    dom = m.group(1).lower() if m else url
+    return dom[4:] if dom.startswith('www.') else dom
 
 def pulisci(url):
     return url.rstrip(TRAILING)
