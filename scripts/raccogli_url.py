@@ -128,6 +128,15 @@ def leggi(path):
             return f.read()
     return None
 
+from openpyxl.cell.cell import ILLEGAL_CHARACTERS_RE
+
+def _cella(v):
+    """Rimuove i caratteri di controllo illegali per XML/openpyxl (frequenti nel
+    testo estratto dai PDF), preservando il contenuto leggibile."""
+    if isinstance(v, str):
+        return ILLEGAL_CHARACTERS_RE.sub(' ', v)
+    return v
+
 def main():
     record = []           # (url, dominio, file, categoria, contesto)
     per_file = Counter()
@@ -177,7 +186,8 @@ def main():
         righe = sorted(cat_gruppi.get(cat, []),
                        key=lambda u: (-dom_freq[u[1]], u[1], u[0]))
         for url, dom, rel, c, ctx, n in righe:
-            ws.append([url, dom, c, rel, n, dom_freq[dom], ctx[:200], "", ""])
+            ws.append([_cella(url), _cella(dom), _cella(c), _cella(rel), n,
+                       dom_freq[dom], _cella(ctx[:200]), "", ""])
 
     out = os.path.join(ROOT, 'repertorio', 'URL_CENSITI.xlsx')
     wb.save(out)
