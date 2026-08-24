@@ -1,0 +1,97 @@
+# ITALIA NERA / MONDO NERO — Scheda MN-BB-18
+## L'"incontro" Trump–Gorbaciov negli Stati Uniti: l'episodio del sosia (dicembre 1988) e i contatti reali
+
+**TL;DR**
+- L'"incontro" tra Donald Trump e Mikhail Gorbaciov davanti alla Trump Tower nel dicembre 1988 fu un **falso**: Trump scese in strada a salutare un **sosia**, l'impersonatore **Ronald V. Knapp** ("Gorby 2"), ingaggiato dal produttore televisivo **Gordon Elliott** per Fox ("Good Day, New York") e per "A Current Affair" di Maury Povich. [Stato: A — documentato]
+- Due elementi della premessa sono **errati / privi di riscontro (Stato Zero)**: (a) la moglie di Gorbaciov si chiamava **Raisa** Maksimovna, non "Larissa"; (b) non esiste **alcuna** fonte che collochi **Fred Trump** o **Donald Trump Jr.** nell'episodio: fu coinvolto **solo** Donald Trump.
+- Un contatto **reale** Trump–Gorbaciov è attestato una sola volta, in una fila di ricevimento (receiving line) al pranzo del Dipartimento di Stato a Washington il **9 dicembre 1987**; la pretesa di un "incontro privato" a Mosca nel luglio 1987 non ha riscontri. [Stato: A/B]
+
+---
+
+## Key Findings
+
+1. **L'episodio del sosia è documentato da stampa coeva concorde (UPI, AP).** Il 6–7 dicembre 1988, mentre Gorbaciov visitava New York (discorso all'ONU e vertice di Governors Island con Reagan), l'impersonatore Ronald V. Knapp, truccato con la caratteristica voglia sulla fronte, girò Manhattan su una limousine e si fermò davanti alla Trump Tower sulla Fifth Avenue. Trump scese in strada e lo salutò calorosamente, davanti alle telecamere. [upi](https://www.upi.com/Archives/1988/12/07/Gorby-impostor-meets-Trump/7772597474000/)
+
+2. **Trump fu effettivamente ingannato — o quantomeno "stette al gioco" solo a posteriori.** Il produttore Gordon Elliott dichiarò che Trump "was absolutely taken" (fu completamente preso in giro); il portavoce di Trump, Dan Klores, negò ("No way"). [upi](https://www.upi.com/Archives/1988/12/07/Gorby-impostor-meets-Trump/7772597474000/) Trump stesso sostenne poi di aver capito subito.
+
+3. **Correzione onomastica confermata:** la moglie era **Raisa Maksimovna Gorbacheva** (nata Titarenko, 5 gennaio 1932 – 20 settembre 1999). "Larissa" è un errore. **Stato Zero.**
+
+4. **Nessuna presenza di Fred Trump o Donald Trump Jr.** in questo episodio o in qualsiasi contatto Trump–Gorbaciov documentato. Donald Trump Jr. aveva quasi 11 anni nel dicembre 1988. **Stato Zero.**
+
+5. **Contatto reale:** una stretta di mano/scambio nella fila di ricevimento al Dipartimento di Stato (9 dicembre 1987), documentata da foto d'agenzia (Getty/AP) e citata da CNN e VOA. Nessun "incontro" bilaterale o negoziato.
+
+---
+
+## Details
+
+### (a) Ricostruzione accertata dell'episodio del sosia
+
+**Data.** Esiste una piccola discordanza tra le fonti. I dispacci d'agenzia coevi collocano l'evento nel giorno d'arrivo di Gorbaciov a New York, **martedì 6 dicembre 1988** ("30 minutes before Gorbachev's arrival… the real Soviet leader arrived Tuesday", AP; [Daily Kos](https://www.dailykos.com/stories/1524224/full_content) UPI: "stunned pedestrians… Tuesday… the real Gorbachev was arriving at Kennedy International Airport… for the first day of a visit"). [UPI](https://www.upi.com/Archives/1988/12/07/Gorby-impostor-meets-Trump/7772597474000/) Il dispaccio UPI ("Gorby impostor meets Trump", firmato Gerry Mullany) porta la data del **7 dicembre 1988**, e le memorie successive dello stesso Knapp indicano il "7 dicembre 1988", giorno del discorso all'ONU. Poiché il 6 dicembre 1988 cadeva di martedì, l'evidenza coeva indica **martedì 6 dicembre** (arrivo), mentre le fonti retrospettive tendono a citare il 7. [Stato: A per l'episodio; B per la data esatta 6 vs 7]
+
+**Dinamica.** Knapp, ingaggiato da Fox per il programma mattutino "Good Day, New York" di Gordon Elliott, iniziò la giornata bussando alle porte nel New Jersey; visto il successo, la produzione noleggiò una limousine e lo "scatenò" per Manhattan [Theguywhogottrump](http://www.theguywhogottrump.com) con più telecamere. [Amazon](https://www.amazon.com/Ronald-V.-Knapp/e/B00CPPC1VY) Percorse Times Square e la zona attorno alla Soviet Mission [UPI](https://www.upi.com/Archives/1988/12/07/Gorby-impostor-meets-Trump/7772597474000/) (Upper East Side), attirando centinaia di curiosi — nelle parole del dispaccio UPI del 7 dicembre 1988: "The impostor drew hundreds of gawkers who did not expect to see the balding first comrade stroll down Times Square" — per poi fermarsi davanti alla Trump Tower. Secondo il racconto (auto-promozionale) di Knapp, riportato dal Daily Review australiano ("Trump, Putin and the Gorbachev hoax"), "the doorman at Trump Tower had noticed the limo arrival and phoned upstairs to let the boss know that the Soviet leader had arrived at his doorstep. The way Knapp tells it, Trump rushed down from his office to greet the Soviet leader." [Stato: A per la messinscena; B/C per il dettaglio del portiere, che proviene dal solo memoriale di Knapp]
+
+**Cosa disse Trump.** Le riprese trasmesse da "A Current Affair" mostrano lo scambio: Trump — "Great great honor" ("Grande, grande onore"); il sosia — "I like your tie" ("Mi piace la tua cravatta"); Trump — "It was beautiful… I couldn't have been happier. Good luck with everything. Have a great time. Thank you." [BuzzFeed News](https://www.buzzfeednews.com/article/andrewkaczynski/from-russia-with-love) L'impersonatore lo "punzecchiava" sulla cravatta rossa. [UPI](https://www.upi.com/Archives/1988/12/07/Gorby-impostor-meets-Trump/7772597474000/) [Stato: A]
+
+**Chi organizzò la messinscena.** Il freelance televisivo **Gordon Elliott** (poi noto conduttore, di origine australiana), per Fox "Good Day, New York" e per il rotocalco "A Current Affair" di **Maury Povich**. Elliott, descritto dall'UPI come "a freelance television producer", dichiarò di aver ideato lo scherzo per vedere come i newyorkesi avrebbero accolto il leader sovietico: "The reaction was incredible… Ninety-nine percent of the people thought it was true." [Stato: A]
+
+**Nome e identità dell'impersonatore.** **Ronald V. Knapp** (noto come "Gorby 2"). Sulla nazionalità le fonti divergono in modo riconciliabile: il dispaccio UPI del 1988 lo definisce "American-Indian"; [UPI](https://www.upi.com/Archives/1988/12/07/Gorby-impostor-meets-Trump/7772597474000/) la sua autobiografia lo dice **nato a Windsor (Ontario, Canada)**, di padre Seneca e madre irlandese, cresciuto in gran parte a Detroit [Amazon](https://www.amazon.com/Guy-Who-Got-Trump-Outrageous/dp/0989290727) e residente all'epoca a Huntington Beach (California), poi a San Clemente. Aveva vinto un concorso per sosia di Gorbaciov a Hollywood. [Picket Fence Media](https://www.picketfencemedia.com/sanclementetimes/sc-living/coastlines-how-an-impersonator-who-now-calls-san-clemente-home-tricked-america-s-future-president/article_31b282f0-7cff-5c1d-87ab-516209b9e9aa.html) L'età esatta non è confermata da fonti coeve. Ha poi pubblicato memorie auto-prodotte ("Gorby 2: Audacious Impostor"; "The Guy Who Got Trump"). [Stato: A per nome e ruolo; B per i dettagli biografici; le cifre da lui riportate — "100.000 newyorkesi", "5.000 persone" — sono sue affermazioni non corroborate]
+
+**Trump ingannato o compiacente?** Le fonti coeve confliggono sulla lettura, non sui fatti. Gordon Elliott: Trump "was absolutely taken". Il portavoce **Dan Klores** negò recisamente ("No way", chiesto se Trump avesse creduto di incontrare il vero leader sovietico). [UPI](https://www.upi.com/Archives/1988/12/07/Gorby-impostor-meets-Trump/7772597474000/) Trump, in una dichiarazione riportata da BuzzFeed News (Andrew Kaczynski, "Trump's Record On Russia: Snubbed By Gorbachev, Fooled By Impostor") e attribuita all'Associated Press/New York Times, sostenne di aver capito subito: "He looked fabulous and he sounded fabulous, but I knew it couldn't be right. For one thing, I looked into the back of his limo and saw four very attractive women." Knapp, nel suo libro, sostiene invece che Trump fu davvero ingannato. [Daily Review](https://dailyreview.com.au/trump-putin-gorbachev-hoax/) [Barnes \& Noble](https://www.barnesandnoble.com/w/gorby-2-ronald-knapp/1117688955) Il video non supporta la versione di Trump. [Picket Fence Media](https://www.picketfencemedia.com/sanclementetimes/sc-living/coastlines-how-an-impersonator-who-now-calls-san-clemente-home-tricked-america-s-future-president/article_31b282f0-7cff-5c1d-87ab-516209b9e9aa.html) **Valutazione:** i fatti (Trump sceso a salutare il sosia sotto le telecamere) sono documentati; la sua smentita è una razionalizzazione a posteriori tipica della sua gestione dell'immagine. [Stato: A per i fatti; la smentita di Trump è B/C]
+
+### (b) Verifica onomastica: Raisa vs "Larissa"
+
+La moglie di Mikhail Gorbaciov era **Raisa Maksimovna Gorbacheva** (nata **Titarenko**), nata il 5 gennaio 1932 a Rubcovsk (Altaj, Siberia) e morta il 20 settembre 1999 a Münster (Germania) [Wikipedia](https://en.wikipedia.org/wiki/Raisa_Gorbacheva) di leucemia. Sposò Gorbaciov nel 1953; ebbero una figlia, Irina. [The Famous People](https://www.thefamouspeople.com/profiles/raisa-gorbacheva-6612.php) Durante la visita di New York del dicembre 1988 Raisa visitò la sede di Estée Lauder ("to check out American makeup", [Trumpfile](https://trumpfile.org/donald-trump-tricked-into-meeting-a-gorbachev-impersonator/) New York Times). **La forma "Larissa Gorbaceva" è errata: Stato Zero.** [Stato: A]
+
+### (c) Presenza/assenza di Fred Trump e Donald Trump Jr.
+
+Nessuna fonte — né coeva (UPI, AP, NYT, Washington Post) né retrospettiva (BuzzFeed, Time, Daily Review, memorie di Knapp) — menziona **Fred Trump** (il padre, "Trump Sr.") o **Donald Trump Jr.** nell'episodio del sosia o in qualsiasi altro contatto con Gorbaciov. Ogni resoconto descrive **solo Donald Trump** ("il proprietario dell'edificio", "il re del capitalismo", "il magnate immobiliare"). [UPI](https://www.upi.com/Archives/1988/12/07/Gorby-impostor-meets-Trump/7772597474000/) Donald Trump Jr., nato il 31 dicembre 1977, aveva quasi 11 anni. **L'attribuzione a Fred Trump e a Donald Trump Jr. è priva di qualsiasi riscontro: Stato Zero.** [Stato: A per l'assenza documentale]
+
+### (d) Contatti reali Trump–Gorbaciov
+
+- **Luglio 1987 (Mosca):** Trump viaggiò a Mosca con la moglie Ivana [Voice of America](https://www.voanews.com/a/trump-involvement-russia/3695927.html) e assistenti per esplorare un progetto alberghiero in joint venture con **Intourist** (agenzia turistica statale sovietica legata al KGB), [Medium](https://medium.com/@abbievansickle/timeline-of-trumps-relationship-to-russia-5e78c7e7f480) su invito dell'ambasciatore Yuri Dubinin. Trump annunciò l'intenzione di incontrare Gorbaciov, ma **l'incontro non ebbe luogo** [Medium](https://medium.com/@abbievansickle/timeline-of-trumps-relationship-to-russia-5e78c7e7f480) (lo ammise poi lui stesso; [Medium](https://medium.com/@abbievansickle/timeline-of-trumps-relationship-to-russia-5e78c7e7f480) confermato da The New Republic: "Trump's meeting with Gorbachev never really took place"). [The New Republic](https://newrepublic.com/article/150646/young-trump-went-russia) [Stato: A per il viaggio; A per il mancato incontro a Mosca]
+- **9 dicembre 1987 (Washington):** al pranzo in onore di Gorbaciov al Dipartimento di Stato, Trump era presente e, nella fila di ricevimento, ebbe uno scambio con Gorbaciov. Foto d'agenzia (Getty/AP) ritraggono "Mikhail Gorbachev, George Shultz, Donald J. Trump, and Ivana Trump" [Getty Images](https://www.gettyimages.com/photos/soviet-mikhail-gorbachev) all'evento. La didascalia CNN (galleria "Photos: Former Soviet president Mikhail Gorbachev", 30 agosto 2022) recita: "Gorbachev shakes hands with businessman — and future US President — Donald Trump at the US State Department in December 1987. It was before a luncheon held in Gorbachev's honor." E Voice of America (Masood Farivar, "Timeline: Trump's Involvements With Russia", 28 gennaio 2017): "Soviet leader Mikhail Gorbachev shakes hands with New York real estate tycoon Donald Trump, at the State Department in Washington, Dec. 9, 1987 prior to a luncheon in Gorbachev's honor." Trump raccontò poi al Washington Post: "They want to have a great hotel, and they want me to be the one to do it." [The Hollywood Reporter](https://www.hollywoodreporter.com/news/politics-news/donald-trump-angled-soviet-posting-1980s-says-nobel-prize-winner-1006312/) **Questo è l'unico contatto de visu documentato tra Trump e il vero Gorbaciov.** Si trattò però di un breve scambio in una receiving line di circa 45 minuti in cui i Gorbaciov ebbero "a personal word with each guest" [Margaret Thatcher Foundation](https://www.margaretthatcher.org/document/110622) (memorie di George Shultz), non di un incontro bilaterale. [Stato: A per la presenza allo stesso evento; B per la natura/estensione dello "scambio", che poggia in parte sul racconto di Trump]
+- **Dicembre 1988 (New York):** Trump annunciò che Gorbaciov e la moglie Raisa avrebbero visitato la Trump Tower; [Medium](https://medium.com/@abbievansickle/timeline-of-trumps-relationship-to-russia-5e78c7e7f480) la visita **non avvenne mai** (per motivi di sicurezza/agenda; Gorbaciov visitò il World Trade Center). [CBS News](https://www.cbsnews.com/amp/newyork/news/back-stories-trump-russia) L'allora reporter di Newsweek Jonathan Alter, nel documentario "Trump: What's the Deal" (citato da BuzzFeed News), ha descritto l'annuncio come una montatura pubblicitaria: "The week before he arrived, all the television stations in New York said that Gorbachev was planning a visit to Trump Tower… Some of them even printed in the paper that this was going to happen. At no point was Trump Tower even tentatively-scheduled as a place for Gorbachev to visit. It's almost a textbook example of a publicity stunt." [Stato: A per il mancato incontro; B per l'attribuzione a "story plant"]
+- **Nota importante:** Trump ha ripetutamente vantato di aver "incontrato" Gorbaciov nel 1987 ("we got along well"); [Voice of America](https://www.voanews.com/a/trump-sought-failed-to-secure-lucrative-russia-deals/3696457.html) [BuzzFeed News](https://www.buzzfeednews.com/article/andrewkaczynski/from-russia-with-love) la ricostruzione più accurata è che l'unico contatto fisico fu la fila di ricevimento del 9 dicembre 1987 a Washington, e che il preteso incontro privato a Mosca è **infondato**. [Stato: B — la retorica di Trump enfatizza un contatto minimo]
+
+### (e) Contesto: gli affari immobiliari a Mosca
+
+L'interesse di Trump per Mosca risale al 1986, quando fu presentato all'ambasciatore sovietico **Yuri Dubinin** a un pranzo [globalsecurity](https://www.globalsecurity.org/military/library/news/2017/01/mil-170128-voa02.htm) [Byline Times](https://bylinetimes.com/2019/11/13/russian-interference-recruiting-donald-trump-the-early-years/) (ospitato da Leonard Lauder, degli Estée Lauder). Nel gennaio 1987 ricevette una lettera che segnalava l'interesse di **Intourist** per una joint venture alberghiera; [Substack](https://craigunger.substack.com/p/1987-the-kgb-reels-him-in) [The New Republic](https://newrepublic.com/article/150646/young-trump-went-russia) nel luglio 1987 fece il primo viaggio a Mosca (alloggiando alla suite "di Lenin" al National Hotel), [Substack](https://craigunger.substack.com/p/1987-the-kgb-reels-him-in) [Ordo-militaris](https://www.ordo-militaris.net/wp-content/uploads/2025/02/The-hidden-history-of-Trumps-first-trip-to-Moscow.pdf) esaminando siti vicino alla Piazza Rossa. [Byline Times](https://bylinetimes.com/2019/11/13/russian-interference-recruiting-donald-trump-the-early-years/) Il progetto non si concretizzò mai. Trump lesse "Perestroika" di Gorbaciov in preparazione. [Time](https://time.com/4437403/trump-gorbachev-history/) [Medium](https://medium.com/@abbievansickle/timeline-of-trumps-relationship-to-russia-5e78c7e7f480) **Non si inferisce alcun nesso provato** tra questo interesse e l'episodio del sosia: sono contesti distinti, uniti solo dalla "Gorbaciov-mania" di Trump in quegli anni. [Stato: A per i fatti; nessun nesso causale documentato]
+
+---
+
+## Recommendations (per la federazione MN-BB-18)
+
+1. **Federare la voce con la classificazione a tre livelli** già assegnata a ciascun nodo (vedi sopra). Marcare in rosso i due **Stato Zero**: "Larissa" (→ Raisa) e la presenza di Fred Trump / Donald Trump Jr. (→ inesistente).
+2. **Titolare la scheda in modo non fuorviante:** l'"incontro Trump–Gorbaciov negli USA" del dicembre 1988 è un **incontro con un sosia**, non con Gorbaciov. Distinguere nettamente dal contatto reale del 9 dicembre 1987.
+3. **Fonte primaria da privilegiare:** i dispacci coevi UPI (7 dicembre 1988, Gerry Mullany) e AP; per il contatto reale, foto d'agenzia Getty/AP del 9 dicembre 1987, didascalie CNN/VOA e resoconto del Washington Post. Trattare le memorie di Knapp come fonte di parte (auto-promozionale).
+4. **Soglia di revisione:** se dovesse emergere il testo integrale dell'articolo NYT del dicembre 1988 o filmati d'archivio Fox datati con precisione, aggiornare la data da "6–7 dicembre" a quella accertata. Se emergesse una qualsiasi fonte che colloca Fred Trump o Don Jr. all'evento (finora inesistente), riclassificare il nodo (c).
+5. **Non citare** Grokipedia né Il Manifesto (vincolo rispettato).
+
+---
+
+## Caveats
+
+- **Data 6 vs 7 dicembre 1988:** discordanza reale tra dispacci d'agenzia (che descrivono "martedì", ossia il 6, giorno d'arrivo) e le fonti retrospettive/Knapp (7 dicembre). Segnalata come indiziaria.
+- **"Ingannato o compiacente":** i fatti sono certi; la lettura psicologica (Trump credette davvero?) resta contesa tra il produttore (sì), Knapp (sì) e Trump/portavoce (no).
+- **Natura del contatto 1987:** foto e cronache confermano la compresenza e uno scambio in receiving line; l'ampiezza della conversazione poggia in parte sul racconto interessato di Trump.
+- **Identità di Knapp:** "American-Indian" (UPI) e "canadese" (autobiografia) sono riconciliabili (nato in Ontario, di ascendenza Seneca e irlandese, cresciuto a Detroit); età non confermata.
+- **Fonti aggregatrici:** parte del materiale circola via siti secondari (Daily Kos, trumpfile.org); le affermazioni chiave sono però ancorate a UPI, AP, NYT, Washington Post, CNN, VOA e Getty.
+
+---
+
+### Riepilogo classificazione "Savona" per la federazione MN-BB-18
+
+| Nodo | Contenuto | Stato |
+|---|---|---|
+| 1 | Episodio del sosia (7 dic 1988), Trump scende a salutare "Gorby" davanti alla Trump Tower | **A** (documentato: UPI, AP, video A Current Affair) |
+| 1a | Data esatta (6 vs 7 dicembre) | **B** (indiziario; wire = 6, retrospettive = 7) |
+| 1b | Nome impersonatore = Ronald V. Knapp | **A** |
+| 1c | Organizzatore = Gordon Elliott (Fox/"A Current Affair") | **A** |
+| 1d | Trump davvero ingannato | **B** (Elliott/Knapp sì; Trump nega) |
+| 1e | Dettaglio "portiere telefonò di sopra" | **C** (solo memoriale Knapp) |
+| 2 | Moglie = Raisa (non "Larissa") | **A** / "Larissa" = **STATO ZERO** |
+| 3 | Presenza Fred Trump / Donald Trump Jr. | **STATO ZERO** (nessun riscontro) |
+| 4 | Contatto reale = receiving line, 9 dic 1987, Washington | **A** (foto Getty/AP, CNN, VOA) |
+| 4a | Incontro privato a Mosca (lug 1987) | **STATO ZERO / A per il mancato incontro** |
+| 4b | Visita di Gorbaciov alla Trump Tower (dic 1988) | mai avvenuta — **A** |
+| 5 | Contesto affari Mosca / Intourist (1986–1987) | **A**; nessun nesso causale col sosia |
